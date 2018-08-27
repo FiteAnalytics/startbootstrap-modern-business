@@ -72,4 +72,5 @@ a {
 
 .btn-primary {
   background-color: var(--dark-mauve);
+  border-color: var(--dark-mauve);
 }
