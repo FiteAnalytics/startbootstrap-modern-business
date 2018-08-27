@@ -80,3 +80,7 @@ a {
   background-color: var(--dark-mauve);
   border-color: var(--dark-mauve);
 }
+
+.hero-text {
+  color: var(--yellow);
+}
