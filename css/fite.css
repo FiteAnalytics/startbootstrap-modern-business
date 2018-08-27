@@ -38,5 +38,6 @@ body {
 }
 
 .card-footer {
-    background-color: var(--tangerine);
+    /*background-color: var(--tangerine);*/
+    background-color: #EF785D;
 }
