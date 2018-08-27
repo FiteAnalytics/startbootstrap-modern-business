@@ -82,7 +82,11 @@ a {
 }
 
 .hero-text {
-  color: var(--yellow);
+  color: var(--tangerine);
+}
+
+.hero-subtext {
+  color: var(--peach);
 }
 
 .hero-italic {
