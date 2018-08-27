@@ -15,6 +15,7 @@
 
 body {
   padding-top: 54px;
+  background-color: var(--dark-mauve);
 }
 
 @media (min-width: 992px) {
