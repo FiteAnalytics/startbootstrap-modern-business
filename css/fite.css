@@ -74,12 +74,12 @@ a {
 
 .btn {
   font-family: "lato";
-  font-color: var(--black-purple);
 }
 
 .btn-primary {
   background-color: var(--yellow);
   border-color: var(--yellow);
+  color: var(--black-purple);
 }
 
 .hero-text {
