@@ -38,7 +38,8 @@ body {
 }
 
 .card-header {
-  background-color: var(--tangerine);
+  background-color: var(--dark-mauve);
+  color: var(--peach);
 }
 
 .card-footer {
@@ -68,8 +69,4 @@ a {
 
 .btn {
   font-family: "lato";
-}
-
-.card-header {
-  color: var(--black-purple);
 }
