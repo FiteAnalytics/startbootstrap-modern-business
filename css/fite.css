@@ -52,3 +52,7 @@ body {
 .bg-dark {
   background-color: var(--black-purple)!important;
 }
+
+.navbar-brand {
+  font-family: "Courier New";
+}
