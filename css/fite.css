@@ -94,3 +94,7 @@ a {
 .whitetext {
   color: white;
 }
+
+.peachtext {
+  color: var(--peach);
+}
