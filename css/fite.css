@@ -38,17 +38,17 @@ body {
 }
 
 .card-header {
-    background-color: var(--tangerine);
+  background-color: var(--tangerine);
 }
 
 .card-footer {
-    background-color: var(--peach);
+  background-color: var(--peach);
 }
 
 .my-4 {
   color: var(--dark-mauve);
 }
 
-.navbar {
-  --bg-dark: var(--black-purple);
+.bg-dark {
+  background-color: var(--black-purple);
 }
