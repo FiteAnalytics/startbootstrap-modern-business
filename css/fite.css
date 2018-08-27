@@ -98,3 +98,7 @@ a {
 .peachtext {
   color: var(--peach);
 }
+
+.under-nav {
+  background-color: var(--black-purple);
+}
