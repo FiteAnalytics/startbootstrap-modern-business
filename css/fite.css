@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
  */
 
-#corp {
+:root {
   --black-purple: #2A1C42;
   --dark-mauve: #644A77;
   --plum: #7B4C77;
@@ -38,6 +38,6 @@ body {
 }
 
 .card-footer {
-    /*background-color: var(--tangerine);*/
-    background-color: #EF785D;
+    background-color: var(--tangerine);
+    /*background-color: #EF785D;*/
 }
