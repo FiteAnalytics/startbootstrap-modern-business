@@ -37,7 +37,14 @@ body {
   margin-bottom: 30px;
 }
 
-.card-footer {
+.card-header {
     background-color: var(--tangerine);
-    /*background-color: #EF785D;*/
+}
+
+.card-footer {
+    background-color: var(--peach);
+}
+
+.my-4 {
+  color: var(--dark-mauve);
 }
