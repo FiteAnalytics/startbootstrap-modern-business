@@ -49,6 +49,6 @@ body {
   color: var(--dark-mauve);
 }
 
-bg-dark {
+.bg-dark {
   background-color: var(--black-purple);
 }
