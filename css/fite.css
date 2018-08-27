@@ -90,3 +90,7 @@ a {
   color: var(--peach);
   font-style: italic;
 }
+
+.whitetext {
+  color: white;
+}
