@@ -69,3 +69,7 @@ a {
 .btn {
   font-family: "lato";
 }
+
+.btn-info {
+  background-color: var(--dark-mauve);
+}
