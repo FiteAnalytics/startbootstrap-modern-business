@@ -84,3 +84,7 @@ a {
 .hero-text {
   color: var(--yellow);
 }
+
+.hero-italic {
+  font-style: italic;
+}
