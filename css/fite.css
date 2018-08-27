@@ -11,7 +11,6 @@
   --tangerine: #EF785D;
   --peach: #F0A163;
   --yellow: #F5C867;
-  --font-family: "Lato";
 }
 
 body {
@@ -55,5 +54,9 @@ body {
 }
 
 .navbar-brand {
+  font-family: "Courier New";
+}
+
+p {
   font-family: "Courier New";
 }
