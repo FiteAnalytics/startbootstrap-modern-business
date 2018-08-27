@@ -59,6 +59,7 @@ body {
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, p {
   font-family: "lato";
+  color: var(--black-purple);
 }
 
 .btn {
@@ -66,5 +67,5 @@ body {
 }
 
 .card-header {
-  color: var(--plum);
+  color: var(--black-purple);
 }
