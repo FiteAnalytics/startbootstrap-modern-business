@@ -27,6 +27,11 @@ body {
   color: var(--dark-mauve);
 }
 
+.carousel-inner > .item > img {
+  width:1900px;
+  height:1080px;
+}
+
 .carousel-item {
   height: 65vh;
   min-height: 300px;
