@@ -64,12 +64,10 @@ body {
 
 a {
   font-family: "lato";
-  color: var(--plum)!important;
 }
 
 .btn {
   font-family: "lato";
-  color: var(--yellow);
 }
 
 .card-header {
