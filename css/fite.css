@@ -69,6 +69,7 @@ a {
 
 .btn {
   font-family: "lato";
+  color: var(--yellow);
 }
 
 .card-header {
