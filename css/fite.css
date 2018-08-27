@@ -50,5 +50,5 @@ body {
 }
 
 .bg-dark {
-  background-color: var(--black-purple);
+  background-color: var(--black-purple)!important;
 }
