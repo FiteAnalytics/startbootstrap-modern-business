@@ -23,6 +23,10 @@ body {
   }
 }
 
+.carousel-caption {
+  color: var(--dark-mauve);
+}
+
 .carousel-item {
   height: 65vh;
   min-height: 300px;
