@@ -49,7 +49,7 @@ body {
 }
 
 .card-footer {
-  background-color: var(--peach);
+  background-color: var(--black-purple);
 }
 
 .my-4 {
@@ -74,11 +74,12 @@ a {
 
 .btn {
   font-family: "lato";
+  font-color: var(--black-purple);
 }
 
 .btn-primary {
-  background-color: var(--dark-mauve);
-  border-color: var(--dark-mauve);
+  background-color: var(--yellow);
+  border-color: var(--yellow);
 }
 
 .hero-text {
