@@ -48,3 +48,7 @@ body {
 .my-4 {
   color: var(--dark-mauve);
 }
+
+.navbar {
+  --bg-dark: var(--black-purple);
+}
