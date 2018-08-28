@@ -13,8 +13,8 @@
   --yellow: #F5C867;
 }
 
-.letf-align {
-  text-align: left!important;
+.left-align-text {
+  text-align: left;
 }
 .tangerine {
   color: var(--tangerine)!important;
