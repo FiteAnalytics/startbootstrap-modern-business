@@ -51,7 +51,7 @@
             <div class="card-body">
               <h4 class="card-title">Geoff Fite</h4>
               <h6 class="card-subtitle mb-2 text-muted">Founder</h6>
-              <p class="card-text">Prior to founding Fite Analytics, Geoff was President, BondEdge Solutions at IDC., which was sold to ICE in 2016. Previously, Geoff was COO at Moody's Analytics, VP at Morningstar, and COO & CTO at mPower Advisors LLC. (sold to Morningstar). He has a degree in Political Science from UC San Diego and a graduate degree in East Asian Languages and Cultures from Columbia University.</p>
+              <p class="card-text">Prior to founding Fite Analytics, Geoff was President, BondEdge Solutions at IDC., which was acquired by ICE in 2016. Previously, Geoff was COO at Moody's Analytics, VP at Morningstar, and COO & CTO at mPower Advisors LLC. (acquired by Morningstar). He has a degree in Political Science from UC San Diego and a graduate degree in East Asian Languages and Cultures from Columbia University.</p>
             </div>
           </div>
         </div>
