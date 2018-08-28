@@ -50,7 +50,7 @@
           <div class="card h-100 text-center card-no-border">
             <div class="card-body">
               <h4 class="card-title">Geoff Fite</h4>
-              <h6 class="card-subtitle mb-2 text-muted">Founder</h6>
+              <h6 class="card-subtitle mb-2 text-muted tangerine">Founder</h6>
               <p class="card-text">Prior to founding Fite Analytics, Geoff was President, BondEdge Solutions at IDC (acquired by ICE in 2016). Geoff was also COO at Moody's Analytics, VP at Morningstar, and COO & CTO at mPower Advisors LLC. (acquired by Morningstar). He has a degree in Political Science from UC San Diego and a graduate degree in East Asian Languages and Cultures from Columbia University.</p>
             </div>
           </div>
@@ -59,7 +59,7 @@
           <div class="card h-100 text-center card-no-border">
             <div class="card-body">
               <h4 class="card-title">Sonia Dixon</h4>
-              <h6 class="card-subtitle mb-2 text-muted">Head of Customer Experience</h6>
+              <h6 class="card-subtitle mb-2 text-muted tangerine">Head of Customer Experience</h6>
               <p class="card-text">A pioneer in the field, Sonia started her career in 1979 at the company that produced BondEdge and has spent nearly 40 years with fixed income asset managers helping define what we know today as fixed income analytics. She has a degree in Economics from UC Los Angeles.</p>
             </div>
           </div>
@@ -68,7 +68,7 @@
           <div class="card h-100 text-center card-no-border">
             <div class="card-body">
               <h4 class="card-title">Ayo Adedeji</h4>
-              <h6 class="card-subtitle mb-2 text-muted">Engineering Lead</h6>
+              <h6 class="card-subtitle mb-2 text-muted tangerine">Engineering Lead</h6>
               <p class="card-text">Ayo started his career at Fite Analytics and is responsible for top-to-bottom engineering of our software. He has a degree in Bioengineering from Stanford University.</p>
             </div>
           </div>
@@ -77,7 +77,7 @@
           <div class="card h-100 text-center card-no-border">
             <div class="card-body">
               <h4 class="card-title">Richard Mule</h4>
-              <h6 class="card-subtitle mb-2 text-muted">Engineering Lead</h6>
+              <h6 class="card-subtitle mb-2 text-muted tangerine">Engineering Lead</h6>
               <p class="card-text">Dick started his career at Fite Analytics and is responsible for analytic calculations in our software. He has double degrees in Engineering and Commerce from Santa Clara University.</p>
             </div>
           </div>
