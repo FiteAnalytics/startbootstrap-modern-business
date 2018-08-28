@@ -40,7 +40,7 @@
           <h1 class="navbar-brand"><strong>Fite Analytics LLC</strong></h1>
           <p>Fite Analytics was founded by Geoff Fite in 2016 as a technology company focused on bringing a better software experience to fixed income investors. We believe that a powerful combination of high-performance software with industry-leading content can be offered to all investors at reasonable prices.</p>
           <p>In 2018 Sonia Dixon joined the firm with nearly 4 decades of experience providing leading-edge analytics to the fixed-income buy side. Together, Geoff and Sonia have nearly 70 years experience working direcltly with investors, issuers, ratings agencies and market operators.</p>
-          <p>Our team of dedicated, talented sofrware engineers and analysts work closely with our partners to bring you the best analytics experience possible.</p>
+          <p>Our team of dedicated, talented sofrware engineers and analysts work closely with our partners to bring you the best analytics experience possible. We are growing rapidly and located in sunny Los Angeles, CA - contact us today for opportuntities!</p>
         </div>
       </div>
       <!-- /.row -->
