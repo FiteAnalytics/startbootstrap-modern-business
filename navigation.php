@@ -37,7 +37,7 @@
   </div>
 </nav>
 
-<div class="navbar under-nav">
+<div class="navbar under-nav text-center">
   <h1 class="hero-text">CMS:Portfolio
     <small>Fixed Income Analytics</small>
   </h1>
