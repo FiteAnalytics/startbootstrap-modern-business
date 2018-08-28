@@ -92,16 +92,7 @@
       <h2>Partners</h2>
 
       <div class="row">
-        <div class="col-lg-3 mb-3">
-          <div class="card h-100 text-center card-no-border">
-            <div class="card-body">
-              <h4 class="card-title"></h4>
-              <h6 class="card-subtitle mb-2 text-muted"></h6>
-              <p class="card-text"></p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-3 mb-3">
+        <div class="col-lg-6 mb-3">
           <div class="card h-100 text-center card-no-border">
             <div class="card-body">
               <h4 class="card-title"><img src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/edi_logo.png"></h4>
@@ -110,20 +101,11 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 mb-3">
+        <div class="col-lg-6 mb-3">
           <div class="card h-100 text-center card-no-border">
             <div class="card-body">
               <h4 class="card-title"><img src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/spdji_logo_new.png"></h4>
               <h6 class="card-subtitle mb-2 text-muted"><a href="https://us.spindices.com" target="_blank">S&P Dow Jones</a> is the market leader in financial indices.</h6>
-              <p class="card-text"></p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-3 mb-3">
-          <div class="card h-100 text-center card-no-border">
-            <div class="card-body">
-              <h4 class="card-title"></h4>
-              <h6 class="card-subtitle mb-2 text-muted"></h6>
               <p class="card-text"></p>
             </div>
           </div>
