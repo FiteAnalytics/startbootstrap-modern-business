@@ -43,7 +43,7 @@
       <!-- /.row -->
 
       <!-- Team Members -->
-      <h2>Our Team</h2>
+      <h2>our team</h2>
 
       <div class="row">
         <div class="col-lg-3 mb-3">
@@ -86,7 +86,7 @@
       <!-- /.row -->
       <br>
       <!-- Partners -->
-      <h2>Partners</h2>
+      <h2>our partners</h2>
 
       <div class="row">
         <div class="col-lg-6 mb-3">
