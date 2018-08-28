@@ -61,7 +61,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/database_black_white_icon.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Easy Import Workflow</h4>
-              <p class="card-text">We make it easy to check coverage, import securities, manage positions and reconcile against yield and return. Import positions, transactions, both. Instant analytics and reporting turnaround.</p>
+              <p class="card-text">We make it easy to load and maintain fixed income portfolios. Import positions, transactions, or both, then instantly calculate analytics and generate reports.</p>
             </div>
           </div>
         </div>
