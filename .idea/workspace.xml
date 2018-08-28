@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b2cfa95-ded6-4796-9751-300567a1a10e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.php" afterPath="$PROJECT_DIR$/about.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,8 +77,8 @@
       <file leaf-file-name="about.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="67" column="130" lean-forward="false" selection-start-line="67" selection-start-column="130" selection-end-line="67" selection-end-column="130" />
+            <state relative-caret-position="491">
+              <caret line="40" column="167" lean-forward="false" selection-start-line="40" selection-start-column="167" selection-end-line="40" selection-end-column="167" />
               <folding />
             </state>
           </provider>
@@ -522,8 +521,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="67" column="130" lean-forward="false" selection-start-line="67" selection-start-column="130" selection-end-line="67" selection-end-column="130" />
+        <state relative-caret-position="491">
+          <caret line="40" column="167" lean-forward="false" selection-start-line="40" selection-start-column="167" selection-end-line="40" selection-end-column="167" />
           <folding />
         </state>
       </provider>
