@@ -36,12 +36,3 @@
     </div>
   </div>
 </nav>
-
-<div class="navbar under-nav">
-    <div class="container centered-text">
-      <h1 class="hero-text">CMS:Portfolio
-        <small>Fixed-Income Analytics</small>
-      </h1>
-      <h2 class="hero-subtext">Accurate, Comprehensive, & Extremely Fast</h2>
-    </div>
-</div>
