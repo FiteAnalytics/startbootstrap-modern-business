@@ -25,7 +25,7 @@
           <h1 class="hero-text">CMS:Portfolio
             <small>Fixed-Income Analytics</small>
           </h1>
-          <h2 class="hero-subtext">for Asset Managers</h2>
+          <h2 class="hero-subtext">about us</h2>
         </div>
     </div>
     <br>
@@ -37,7 +37,7 @@
           <img class="img-fluid rounded mb-4" src="http://placehold.it/750x450" alt="">
         </div>
         <div class="col-lg-6">
-          <h2>About Modern Business</h2>
+          <h2 class="navbar-brand">fite analytics llc</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed voluptate nihil eum consectetur similique? Consectetur, quod, incidunt, harum nisi dolores delectus reprehenderit voluptatem perferendis dicta dolorem non blanditiis ex fugiat.</p>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe, magni, aperiam vitae illum voluptatum aut sequi impedit non velit ab ea pariatur sint quidem corporis eveniet. Odit, temporibus reprehenderit dolorum!</p>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti eum ratione ex ea praesentium quibusdam? Aut, in eum facere corrupti necessitatibus perspiciatis quis?</p>
