@@ -91,6 +91,53 @@
         </div>
       </div>
       <!-- /.row -->
+      <br>
+      <!-- Partners -->
+      <h2>Partners</h2>
+
+      <div class="row">
+        <div class="col-lg-3 mb-3">
+          <div class="card h-100 text-center">
+            <img class="card-img-top" src="http://placehold.it/750x450" alt="">
+            <div class="card-body">
+              <h4 class="card-title"></h4>
+              <h6 class="card-subtitle mb-2 text-muted"></h6>
+              <p class="card-text"></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 mb-3">
+          <div class="card h-100 text-center">
+            <img class="card-img-top" src="http://placehold.it/750x450" alt="">
+            <div class="card-body">
+              <h4 class="card-title">Exchange Data International</h4>
+              <h6 class="card-subtitle mb-2 text-muted"><a href="https://www.exchange-data.com" target="_blank">EDI</a> is our preferred partner for reference and pricing data.</h6>
+              <p class="card-text"></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 mb-3">
+          <div class="card h-100 text-center">
+            <img class="card-img-top" src="http://placehold.it/750x450" alt="">
+            <div class="card-body">
+              <h4 class="card-title">S&P Dow Jones Indices</h4>
+              <h6 class="card-subtitle mb-2 text-muted"><a href="https://us.spindices.com" target="_blank">S&P Dow Jones</a> is the market leader in financial indices.</h6>
+              <p class="card-text"></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 mb-3">
+          <div class="card h-100 text-center">
+            <img class="card-img-top" src="http://placehold.it/750x450" alt="">
+            <div class="card-body">
+              <h4 class="card-title"></h4>
+              <h6 class="card-subtitle mb-2 text-muted"></h6>
+              <p class="card-text"></p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
 
     </div>
     <!-- /.container -->
