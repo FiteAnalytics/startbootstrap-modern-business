@@ -21,9 +21,9 @@
             Products & Services
           </a>
           <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
-            <a class="dropdown-item" href="portfolio-1-col.html">CMS:Portfolio</a>
-            <a class="dropdown-item" href="portfolio-2-col.html">Data Management Services</a>
-            <a class="dropdown-item" href="portfolio-3-col.html">Feeds & APIs</a>
+            <a class="dropdown-item" href="https://cmsportfolio.com" target="_blank">CMS:Portfolio</a>
+            <a class="dropdown-item" href="data_management.php">Data Management Services</a>
+            <a class="dropdown-item" href="feeds_apis.php">Feeds & APIs</a>
           </div>
         </li>
         <li class="nav-item">
