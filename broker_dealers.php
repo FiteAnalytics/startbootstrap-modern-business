@@ -29,22 +29,15 @@
         </div>
     </div>
     <br>
-    <!-- Who We Are Section -->
+    <!-- How We Can Help Section -->
     <div class="container">
       <div class="row">
         <div class="col-lg-6">
           <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/diag1.png" alt="">
         </div>
         <div class="col-lg-6">
-          <h2 class="whitetext">who we are</h2>
-          <p>Fite Analytics helps fixed income investors manage Risk and Return. Our platform, <strong>CMS:Portfolio</strong>, is powered
-            by benchmarks from <a class="subtle-a" href="https://us.spindices.com/" target="_blank">S&P Dow Jones Indices</a>
-            and extensive market content
-            from <a class="subtle-a" href="https://www.exchange-data.com/" target="_blank">Exchange Data International</a>.
-            Cloud-native with zero-implementation,
-            CMS:Portfolio sets the standard for <strong>fixed income portfolio and security analytics</strong>. We are
-            industry veterans with over 70 years of combined fixed income analytics experience, and we are fanatical
-            about having the happiest customers on the planet.</p>
+          <h2 class="whitetext">how we can help</h2>
+          <p>Broker-Dealers can provide insight into their clients portfolios and optimise for risk and return, especially at the critical pre-trade decision point. Broker-Dealers add significant value in pricing, yield maximiation, cash flow planning and market liquidity. When these activities are combined with actionable analytics the result is pure portoflio optimization.</p>
         </div>
       </div>
       <!-- /.row -->
@@ -53,8 +46,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <h2 class="whitetext">what we do</h2>
-          <p>CMS:Portfolio combines fixed income market data, high-precision analytics, and S&P Dow Jones Indices on a fast, secure cloud-native platform.</p>
+          <h2 class="whitetext">what we offer</h2>
+          <p>Leverage CMS:Portfolio as your firm's white label analytics and reporting framework. Enhance the value you bring your customers by offering industry-leading analytics at a reasonable cost.</p>
         </div>
       </div>
       <!-- /.row -->
@@ -67,8 +60,8 @@
           <div class="card h-100 text-center card-no-border">
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/database_black_white_icon.png" alt=""></a>
             <div class="card-body">
-              <h4 class="card-title">Security Database</h4>
-              <p class="card-text">CMS:Portfolio includes extensive global fixed income security reference and pricing data, and detailed index holdings and history.</p>
+              <h4 class="card-title">Easy Import Workflow</h4>
+              <p class="card-text">We make it easy to check coverage, import securities, manage positions and reconcile against yield and return. Import positions, transactions, both. Instant analytics and reporting turnaround.</p>
             </div>
           </div>
         </div>
