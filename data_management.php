@@ -39,10 +39,10 @@
           <h2 class="whitetext">how we can help</h2>
           <p>Fite Analytics maintains an extensive securities database and can securely combine your private security
           information with public security information to provide a complete view of your portfolios. We collect data
-          from hundreds of sources daily and we make this content available to you at a reasonable cost.</p>
+          from hundreds of sources daily and we make this content available at a reasonable cost.</p>
           <p>We recognize that fixed income data is never 100% complete, so we provide a service bureau that your firm can
-          rely upon to keep the data fresh and accurate. Let us take on the research for you - whether you need information on CDs,
-          bank loans, or structured products, we have a unique skillset in managing the information jungle that is fixed income.
+          rely upon to keep your data fresh and accurate. Let us take on the research for you - whether you need information on CDs,
+          bank loans, or structured products, we have a unique skillset in managing the fixed income information jungle.
         </div>
       </div>
       <!-- /.row -->
