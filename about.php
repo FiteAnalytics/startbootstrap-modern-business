@@ -51,7 +51,6 @@
       <div class="row">
         <div class="col-lg-3 mb-3">
           <div class="card h-100 text-center card-no-border">
-            <img class="card-img-top" src="http://placehold.it/750x450" alt="">
             <div class="card-body">
               <h4 class="card-title">Geoff Fite</h4>
               <h6 class="card-subtitle mb-2 text-muted">Founder</h6>
@@ -61,7 +60,6 @@
         </div>
         <div class="col-lg-3 mb-3">
           <div class="card h-100 text-center card-no-border">
-            <img class="card-img-top" src="http://placehold.it/750x450" alt="">
             <div class="card-body">
               <h4 class="card-title">Sonia Dixon</h4>
               <h6 class="card-subtitle mb-2 text-muted">Head of Customer Experience</h6>
@@ -71,7 +69,6 @@
         </div>
         <div class="col-lg-3 mb-3">
           <div class="card h-100 text-center card-no-border">
-            <img class="card-img-top" src="http://placehold.it/750x450" alt="">
             <div class="card-body">
               <h4 class="card-title">Ayo Adedeji</h4>
               <h6 class="card-subtitle mb-2 text-muted">Engineering Lead</h6>
@@ -81,7 +78,6 @@
         </div>
         <div class="col-lg-3 mb-3">
           <div class="card h-100 text-center card-no-border">
-            <img class="card-img-top" src="http://placehold.it/750x450" alt="">
             <div class="card-body">
               <h4 class="card-title">Richard Mule</h4>
               <h6 class="card-subtitle mb-2 text-muted">Engineering Lead</h6>
@@ -98,7 +94,6 @@
       <div class="row">
         <div class="col-lg-3 mb-3">
           <div class="card h-100 text-center card-no-border">
-            <img class="card-img-top" src="http://placehold.it/750x450" alt="">
             <div class="card-body">
               <h4 class="card-title"></h4>
               <h6 class="card-subtitle mb-2 text-muted"></h6>
@@ -126,7 +121,6 @@
         </div>
         <div class="col-lg-3 mb-3">
           <div class="card h-100 text-center card-no-border">
-            <img class="card-img-top" src="http://placehold.it/750x450" alt="">
             <div class="card-body">
               <h4 class="card-title"></h4>
               <h6 class="card-subtitle mb-2 text-muted"></h6>
