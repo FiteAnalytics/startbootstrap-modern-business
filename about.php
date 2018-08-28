@@ -65,7 +65,7 @@
             <div class="card-body">
               <h4 class="card-title">Sonia Dixon</h4>
               <h6 class="card-subtitle mb-2 text-muted">President & Head of Customer Experience</h6>
-              <p class="card-text">A pioneer in the field, Sonia started BondEdge in 1979 after graduating from UCLA and spent nearly 40 years with fixed income asset managers creating what we know today as fixed income analytics.</p>
+              <p class="card-text">A pioneer in the field, Sonia started BondEdge in 1979 after graduating from UCLA and spent nearly 40 years with fixed income asset managers helping define what we know today as fixed income analytics.</p>
             </div>
           </div>
         </div>
