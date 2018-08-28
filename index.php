@@ -20,7 +20,6 @@
 
   <body>
     <?php include 'navigation.php'; ?>
-
     <br>
     <!-- Who We Are Section -->
     <div class="container">
