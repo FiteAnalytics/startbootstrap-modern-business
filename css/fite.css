@@ -91,11 +91,13 @@ a {
 
 .hero-text {
   color: var(--peach);
+  text-align: center;
 }
 
 .hero-subtext {
   color: var(--peach);
   font-style: italic;
+  text-align: center;
 }
 
 .card-title {
@@ -112,7 +114,6 @@ a {
   /*top: 0;*/
   right: 0;
   left: 0;
-  text-align: center;
   /*z-index: $zindex-fixed;*/
 }
 
