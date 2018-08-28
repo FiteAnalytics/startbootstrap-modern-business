@@ -47,12 +47,11 @@
       </div>
       <!-- /.row -->
     <br>
-    <!-- What We Do Section -->
+    <!-- What We Offer Section -->
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <h2 class="whitetext">what we do</h2>
-          <p>CMS:Portfolio combines fixed income market data, high-precision analytics, and S&P Dow Jones Indices on a fast, secure cloud-native platform.</p>
+          <h2 class="whitetext">what we offer</h2>
         </div>
       </div>
       <!-- /.row -->
@@ -65,8 +64,8 @@
           <div class="card h-100 text-center card-no-border">
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/database_black_white_icon.png" alt=""></a>
             <div class="card-body">
-              <h4 class="card-title">Daily Reference Data Updates</h4>
-              <p class="card-text">CMS:Portfolio includes extensive global fixed income security reference and pricing data, and detailed index holdings and history.</p>
+              <h4 class="card-title">Reference and Pricing Data Updates</h4>
+              <p class="card-text">We maintain fresh coverage of the global fixed income markets, including terms & conditions, prices, embedded optionality, calls, redemptions, and defaults.</p>
             </div>
           </div>
         </div>
@@ -75,7 +74,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/analytics_black_white.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Pricing Services</h4>
-              <p class="card-text">We calculate industry-standard and cutting-edge analytic measures across a wide range of fixed income asset classes, both public and private.</p>
+              <p class="card-text">We provide yield, spot and relative value price estimates across a range of fixed income sectors.</p>
             </div>
           </div>
         </div>
@@ -84,7 +83,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/portfolio_icon.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Private Security Research</h4>
-              <p class="card-text">Risk, Return, and Valuation analytics for any portfolio can be generated between any two dates at any interval.</p>
+              <p class="card-text">Let us do the hard work for you - simply give us a list of security identifiers and we'll maintain current and accurate data.</p>
             </div>
           </div>
         </div>
@@ -93,7 +92,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/spdji_logo_new.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Data Quality Checks</h4>
-              <p class="card-text">CMS:Portfolio includes the full family of fixed income indices produced by S&P Dow Jones, the global leader in financial indices.</p>
+              <p class="card-text">We believe that multiple data sources is a prudent approach to maintaining mission-critical security information. Use our data as a second source of information so that you are not left holding the bill!</p>
             </div>
           </div>
         </div>
@@ -109,7 +108,7 @@
           <p class="peachtext">Do you have a portfolio that you would like to analyze on CMS:Portfolio? We can get you up and running quickly, usually the same day. We are serious about Zero Implementation!</p>
         </div>
         <div class="col-md-4">
-          <a class="btn btn-lg btn-secondary btn-block" href="#">Contact Us Today</a>
+          <a class="btn btn-lg btn-secondary btn-block" href="contact.php">Contact Us Today</a>
         </div>
       </div>
 
