@@ -37,10 +37,10 @@
           <img class="img-fluid rounded mb-4" src="http://placehold.it/750x450" alt="">
         </div>
         <div class="col-lg-6">
-          <h2 class="navbar-brand">fite analytics llc</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed voluptate nihil eum consectetur similique? Consectetur, quod, incidunt, harum nisi dolores delectus reprehenderit voluptatem perferendis dicta dolorem non blanditiis ex fugiat.</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe, magni, aperiam vitae illum voluptatum aut sequi impedit non velit ab ea pariatur sint quidem corporis eveniet. Odit, temporibus reprehenderit dolorum!</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti eum ratione ex ea praesentium quibusdam? Aut, in eum facere corrupti necessitatibus perspiciatis quis?</p>
+          <h1 class="navbar-brand"><strong>Fite Analytics LLC</strong></h1>
+          <p>Fite Analytics was founded by Geoff Fite in 2016 as a technology company focused on bringing a better software experience to fixed income investors. We believe that a powerful combination of high-performance software with industry-leading content can be offered to all investors at reasonable prices.</p>
+          <p>In 2018 Sonia Dixon joined the firm with nearly 4 decades of experience providing leading-edge analytics to the fixed-income buy side. Together, Geoff and Sonia have nearly 70 years experience working direcltly with investors, issuers, ratings agencies and market operators.</p>
+          <p>Our team of dedicated, talented sofrware engineers and analysts work closely with our partners to bring you the best analytics experience possible.</p>
         </div>
       </div>
       <!-- /.row -->
