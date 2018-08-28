@@ -55,7 +55,7 @@
             <div class="card-body">
               <h4 class="card-title">Geoff Fite</h4>
               <h6 class="card-subtitle mb-2 text-muted">Founder</h6>
-              <p class="card-text">Geoff was most recently President, BondEdge Solutions at Interactive Data Corp., which was sold to Intercontinental Exchange in 2016. Previously, Geoff was Chief Operating Officer at Moody's Analytics, Vice President at Morningstar, and Chief Operating Officer and Chief Technology Officer at mPower Advisors LLC. (sold to Morningstar). He has degrees in Political Science from UC San Diego and East Asian Languages and Cultures from Columbia University.</p>
+              <p class="card-text">Geoff was most recently President, BondEdge Solutions at Interactive Data Corp., which was sold to Intercontinental Exchange in 2016. Previously, Geoff was Chief Operating Officer at Moody's Analytics, Vice President at Morningstar, and Chief Operating Officer and Chief Technology Officer at mPower Advisors LLC. (sold to Morningstar). He has a degree in Political Science from UC San Diego and a graduate degree in East Asian Languages and Cultures from Columbia University.</p>
             </div>
           </div>
         </div>
@@ -65,7 +65,7 @@
             <div class="card-body">
               <h4 class="card-title">Sonia Dixon</h4>
               <h6 class="card-subtitle mb-2 text-muted">Head of Customer Experience</h6>
-              <p class="card-text">A pioneer in the field, Sonia started BondEdge in 1979 after graduating from UCLA and spent nearly 40 years with fixed income asset managers helping define what we know today as fixed income analytics. She has a degree in Mathematics from UC Los Angeles.</p>
+              <p class="card-text">A pioneer in the field, Sonia started her career in 1979 at the company that produced BondEdge and spent nearly 40 years with fixed income asset managers helping define what we know today as fixed income analytics. She has a degree in Economics from UC Los Angeles.</p>
             </div>
           </div>
         </div>
