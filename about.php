@@ -49,68 +49,45 @@
       <h2>Our Team</h2>
 
       <div class="row">
-        <div class="col-lg-4 mb-4">
+        <div class="col-lg-3 mb-3">
           <div class="card h-100 text-center">
             <img class="card-img-top" src="http://placehold.it/750x450" alt="">
             <div class="card-body">
-              <h4 class="card-title">Team Member</h4>
-              <h6 class="card-subtitle mb-2 text-muted">Position</h6>
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
-            </div>
-            <div class="card-footer">
-              <a href="#">name@example.com</a>
+              <h4 class="card-title">Geoff Fite</h4>
+              <h6 class="card-subtitle mb-2 text-muted">Founder & CEO</h6>
+              <p class="card-text">Geoff was most recently President, BondEdge Solutions at Interactive Data Corp., which was sold to Intercontinental Exchange in 2016. Previously, Geoff was Chief Operating Officer at Moody's Analytics, Vice President at Morningstar, and Chief Operating Officer and Chief Technology Officer at mPower Advisors LLC. (sold to Morningstar).</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 mb-4">
+        <div class="col-lg-3 mb-3">
           <div class="card h-100 text-center">
             <img class="card-img-top" src="http://placehold.it/750x450" alt="">
             <div class="card-body">
-              <h4 class="card-title">Team Member</h4>
-              <h6 class="card-subtitle mb-2 text-muted">Position</h6>
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
-            </div>
-            <div class="card-footer">
-              <a href="#">name@example.com</a>
+              <h4 class="card-title">Sonia Dixon</h4>
+              <h6 class="card-subtitle mb-2 text-muted">President & Head of Customer Experience</h6>
+              <p class="card-text">Sonia started BondEdge in 1979 after graduating from UCLA and spent nearly 40 years with fixed income asset managers creating what we know today as fixed income analytics. A pioneer in the field, Sonia has been a rock of service and support that has delighted customers for many years.</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 mb-4">
+        <div class="col-lg-3 mb-3">
           <div class="card h-100 text-center">
             <img class="card-img-top" src="http://placehold.it/750x450" alt="">
             <div class="card-body">
-              <h4 class="card-title">Team Member</h4>
-              <h6 class="card-subtitle mb-2 text-muted">Position</h6>
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
-            </div>
-            <div class="card-footer">
-              <a href="#">name@example.com</a>
+              <h4 class="card-title">Ayo Adedeji</h4>
+              <h6 class="card-subtitle mb-2 text-muted">Engineering Lead</h6>
+              <p class="card-text">Ayo started his career at Fite Analytics and is responsible for top-to-bottom engineering of our software.</p>
             </div>
           </div>
         </div>
-      </div>
-      <!-- /.row -->
-
-      <!-- Our Customers -->
-      <h2>Our Customers</h2>
-      <div class="row">
-        <div class="col-lg-2 col-sm-4 mb-4">
-          <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-        </div>
-        <div class="col-lg-2 col-sm-4 mb-4">
-          <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-        </div>
-        <div class="col-lg-2 col-sm-4 mb-4">
-          <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-        </div>
-        <div class="col-lg-2 col-sm-4 mb-4">
-          <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-        </div>
-        <div class="col-lg-2 col-sm-4 mb-4">
-          <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-        </div>
-        <div class="col-lg-2 col-sm-4 mb-4">
-          <img class="img-fluid" src="http://placehold.it/500x300" alt="">
+        <div class="col-lg-3 mb-3">
+          <div class="card h-100 text-center">
+            <img class="card-img-top" src="http://placehold.it/750x450" alt="">
+            <div class="card-body">
+              <h4 class="card-title">Richard Mule</h4>
+              <h6 class="card-subtitle mb-2 text-muted">Engineering Lead</h6>
+              <p class="card-text">Dick started his career at Fite Analytics and is responsible for top-to-bottom analytics of our software.</p>
+            </div>
+          </div>
         </div>
       </div>
       <!-- /.row -->
