@@ -118,7 +118,7 @@
         </div>
         <div class="col-lg-3 mb-3">
           <div class="card h-100 text-center">
-            <img class="card-img-top" src="http://placehold.it/750x450" alt="">
+            <img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/spdji_logo_new.png" alt="">
             <div class="card-body">
               <h4 class="card-title">S&P Dow Jones Indices</h4>
               <h6 class="card-subtitle mb-2 text-muted"><a href="https://us.spindices.com" target="_blank">S&P Dow Jones</a> is the market leader in financial indices.</h6>
