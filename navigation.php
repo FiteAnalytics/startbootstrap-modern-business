@@ -11,10 +11,10 @@
           <a class="nav-link" href="/">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="asset_managers.html">for Asset Managers</a>
+          <a class="nav-link" href="asset_managers.php">for Asset Managers</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="broker_dealers.html">for Broker-Dealers</a>
+          <a class="nav-link" href="broker_dealers.php">for Broker-Dealers</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
