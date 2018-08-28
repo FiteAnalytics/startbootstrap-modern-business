@@ -43,6 +43,9 @@ body {
   margin-bottom: 30px;
 }
 
+.card-no-border {
+  border: 0px;
+}
 .card-header {
   background-color: var(--black-purple);
   color: var(--peach);
