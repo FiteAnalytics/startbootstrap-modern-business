@@ -54,8 +54,8 @@
             <img class="card-img-top" src="http://placehold.it/750x450" alt="">
             <div class="card-body">
               <h4 class="card-title">Geoff Fite</h4>
-              <h6 class="card-subtitle mb-2 text-muted">Founder & CEO</h6>
-              <p class="card-text">Geoff was most recently President, BondEdge Solutions at Interactive Data Corp., which was sold to Intercontinental Exchange in 2016. Previously, Geoff was Chief Operating Officer at Moody's Analytics, Vice President at Morningstar, and Chief Operating Officer and Chief Technology Officer at mPower Advisors LLC. (sold to Morningstar).</p>
+              <h6 class="card-subtitle mb-2 text-muted">Founder</h6>
+              <p class="card-text">Geoff was most recently President, BondEdge Solutions at Interactive Data Corp., which was sold to Intercontinental Exchange in 2016. Previously, Geoff was Chief Operating Officer at Moody's Analytics, Vice President at Morningstar, and Chief Operating Officer and Chief Technology Officer at mPower Advisors LLC. (sold to Morningstar). He has degrees in Political Science from UC San Diego and East Asian Languages and Cultures from Columbia University.</p>
             </div>
           </div>
         </div>
@@ -64,8 +64,8 @@
             <img class="card-img-top" src="http://placehold.it/750x450" alt="">
             <div class="card-body">
               <h4 class="card-title">Sonia Dixon</h4>
-              <h6 class="card-subtitle mb-2 text-muted">President & Head of Customer Experience</h6>
-              <p class="card-text">A pioneer in the field, Sonia started BondEdge in 1979 after graduating from UCLA and spent nearly 40 years with fixed income asset managers helping define what we know today as fixed income analytics.</p>
+              <h6 class="card-subtitle mb-2 text-muted">Head of Customer Experience</h6>
+              <p class="card-text">A pioneer in the field, Sonia started BondEdge in 1979 after graduating from UCLA and spent nearly 40 years with fixed income asset managers helping define what we know today as fixed income analytics. She has a degree in Mathematics from UC Los Angeles.</p>
             </div>
           </div>
         </div>
@@ -75,7 +75,7 @@
             <div class="card-body">
               <h4 class="card-title">Ayo Adedeji</h4>
               <h6 class="card-subtitle mb-2 text-muted">Engineering Lead</h6>
-              <p class="card-text">Ayo started his career at Fite Analytics and is responsible for top-to-bottom engineering of our software.</p>
+              <p class="card-text">Ayo started his career at Fite Analytics and is responsible for top-to-bottom engineering of our software. He has a degree in Bioengineering from Stanford University.</p>
             </div>
           </div>
         </div>
@@ -85,7 +85,7 @@
             <div class="card-body">
               <h4 class="card-title">Richard Mule</h4>
               <h6 class="card-subtitle mb-2 text-muted">Engineering Lead</h6>
-              <p class="card-text">Dick started his career at Fite Analytics and is responsible for analytic calculations in our software.</p>
+              <p class="card-text">Dick started his career at Fite Analytics and is responsible for analytic calculations in our software. He has double degrees in Engineering and Commerce from Santa Clara University.</p>
             </div>
           </div>
         </div>
