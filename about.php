@@ -85,7 +85,7 @@
             <div class="card-body">
               <h4 class="card-title">Richard Mule</h4>
               <h6 class="card-subtitle mb-2 text-muted">Engineering Lead</h6>
-              <p class="card-text">Dick started his career at Fite Analytics and is responsible for top-to-bottom analytics of our software.</p>
+              <p class="card-text">Dick started his career at Fite Analytics and is responsible for analytic calculations in our software.</p>
             </div>
           </div>
         </div>
