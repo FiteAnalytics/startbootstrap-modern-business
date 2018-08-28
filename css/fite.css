@@ -14,7 +14,7 @@
 }
 
 .tangerine {
-  color: var(--tangerine);
+  color: var(--tangerine)!important;
 }
 
 body {
