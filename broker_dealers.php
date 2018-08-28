@@ -25,7 +25,7 @@
           <h1 class="hero-text">CMS:Portfolio
             <small>Fixed-Income Analytics</small>
           </h1>
-          <h2 class="hero-subtext">for Broker-Dealerst</h2>
+          <h2 class="hero-subtext">for Broker-Dealers</h2>
         </div>
     </div>
     <br>
