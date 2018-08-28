@@ -111,7 +111,7 @@
             <img class="card-img-top" src="http://placehold.it/750x450" alt="">
             <div class="card-body">
               <h4 class="card-title">Exchange Data International</h4>
-              <h6 class="card-subtitle mb-2 text-muted"><a href="https://www.exchange-data.com" target="_blank">EDI</a> is our preferred partner for reference and pricing data.</h6>
+              <h6 class="card-subtitle mb-2 text-muted"><a href="https://www.exchange-data.com" target="_blank">EDI</a> is our reference and pricing data partner.</h6>
               <p class="card-text"></p>
             </div>
           </div>
