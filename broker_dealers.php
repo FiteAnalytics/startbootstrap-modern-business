@@ -33,11 +33,11 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6">
-          <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/diag1.png" alt="">
+          <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/integration.png" alt="">
         </div>
         <div class="col-lg-6">
           <h2 class="whitetext">how we can help</h2>
-          <p>Broker-Dealers can provide insight into their clients portfolios and optimise for risk and return, especially at the critical pre-trade decision point. Broker-Dealers add significant value in pricing, yield maximiation, cash flow planning and market liquidity. When these activities are combined with actionable analytics the result is pure portoflio optimization.</p>
+          <p>Broker-Dealers provide insight into their clients portfolios and optimise for risk and return, especially at the critical pre-trade decision point. Broker-Dealers add significant value in pricing, yield maximiation, cash flow planning and market liquidity. When these activities are combined with actionable analytics the result is pure portoflio optimization.</p>
         </div>
       </div>
       <!-- /.row -->
