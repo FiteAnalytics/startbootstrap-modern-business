@@ -29,22 +29,16 @@
         </div>
     </div>
     <br>
-    <!-- Who We Are Section -->
+    <!-- How We Can Help Section -->
     <div class="container">
       <div class="row">
         <div class="col-lg-6">
           <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/diag1.png" alt="">
         </div>
         <div class="col-lg-6">
-          <h2 class="whitetext">who we are</h2>
-          <p>Fite Analytics helps fixed income investors manage Risk and Return. Our platform, <strong>CMS:Portfolio</strong>, is powered
-            by benchmarks from <a class="subtle-a" href="https://us.spindices.com/" target="_blank">S&P Dow Jones Indices</a>
-            and extensive market content
-            from <a class="subtle-a" href="https://www.exchange-data.com/" target="_blank">Exchange Data International</a>.
-            Cloud-native with zero-implementation,
-            CMS:Portfolio sets the standard for <strong>fixed income portfolio and security analytics</strong>. We are
-            industry veterans with over 70 years of combined fixed income analytics experience, and we are fanatical
-            about having the happiest customers on the planet.</p>
+          <h2 class="whitetext">how we can help</h2>
+          <p>All of our analytic calculations and content are available as APIs and data feeds. Using Python or simple Web Services, call our calculations directly from your spreadsheets or notebooks, or embed our calculations in your existing systems.</p>
+          <p>Just need data and derived analytics? We have daily and weekly data feeds that can be tailored to your specific requirements.</p>
         </div>
       </div>
       <!-- /.row -->
@@ -65,73 +59,37 @@
       <div class="row">
         <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
           <div class="card h-100 text-center card-no-border">
-            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/database_black_white_icon.png" alt=""></a>
+            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/python.png" alt=""></a>
             <div class="card-body">
-              <h4 class="card-title">Security Database</h4>
-              <p class="card-text">CMS:Portfolio includes extensive global fixed income security reference and pricing data, and detailed index holdings and history.</p>
+              <h4 class="card-title">Python SDK</h4>
+              <p class="card-text"></p>
             </div>
           </div>
         </div>
         <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
           <div class="card h-100 text-center card-no-border">
-            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/analytics_black_white.png" alt=""></a>
+            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/web_api.png" alt=""></a>
             <div class="card-body">
-              <h4 class="card-title">Security Analytics</h4>
-              <p class="card-text">We calculate industry-standard and cutting-edge analytic measures across a wide range of fixed income asset classes, both public and private.</p>
+              <h4 class="card-title">Web Service APIs</h4>
+              <p class="card-text"></p>
             </div>
           </div>
         </div>
         <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
           <div class="card h-100 text-center card-no-border">
-            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/portfolio_icon.png" alt=""></a>
+            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/download.png" alt=""></a>
             <div class="card-body">
-              <h4 class="card-title">Portfolio Analytics</h4>
-              <p class="card-text">Risk, Return, and Valuation analytics for any portfolio can be generated between any two dates at any interval.</p>
+              <h4 class="card-title">Off-the-Shelf Data Feeds</h4>
+              <p class="card-text"></p>
             </div>
           </div>
         </div>
         <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
           <div class="card h-100 text-center card-no-border">
-            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/spdji_logo_new.png" alt=""></a>
+            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/download.png" alt=""></a>
             <div class="card-body">
-              <h4 class="card-title">S&P Dow Jones Indices</h4>
-              <p class="card-text">CMS:Portfolio includes the full family of fixed income indices produced by S&P Dow Jones, the global leader in financial indices.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
-          <div class="card h-100 text-center card-no-border">
-            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/testing_icon.png" alt=""></a>
-            <div class="card-body">
-              <h4 class="card-title">Stress Testing</h4>
-              <p class="card-text">Perform rate shocks, key-rate duration shifts, and other interest-sensitive scenarios against portfolios and individual securities.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
-          <div class="card h-100 text-center card-no-border">
-            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/handshake.png" alt=""></a>
-            <div class="card-body">
-              <h4 class="card-title">Pre-trade Analytics</h4>
-              <p class="card-text">Comprehensive what-if analysis of any trade, with detailed impact analyses across risk, return, and cash flows.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
-          <div class="card h-100 text-center card-no-border">
-            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/reporting.png" alt=""></a>
-            <div class="card-body">
-              <h4 class="card-title">Robust Reporting</h4>
-              <p class="card-text">Beautiful fixed income analytics reports in PDF or electronic format, mobile and presentation ready. Drag and drop results into your favorite desktop app.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
-          <div class="card h-100 text-center card-no-border">
-            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/support.png" alt=""></a>
-            <div class="card-body">
-              <h4 class="card-title">Dedicated Support</h4>
-              <p class="card-text">We're veterans in the space and we understand your business. We are able to help you with data, research or any task that will make your analytics more delightful!</p>
+              <h4 class="card-title">Custom Data Feeds</h4>
+              <p class="card-text"></p>
             </div>
           </div>
         </div>
