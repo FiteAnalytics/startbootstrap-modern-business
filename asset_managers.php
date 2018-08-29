@@ -38,7 +38,7 @@
         <div class="col-lg-6">
           <h2 class="whitetext">how we can help</h2>
           <p>Understand Risk & Return at the portfolio, asset-class, and security level, versus benchmarks or liabilities.
-          Fully explain historical risk and performance with CMS:Portfolio, an industry-leading portfolio analytics plantofrm that lets you perform what-if analyses, conduct stress tests and yield curve scenarios, and shock all drivers of risk and return over different horizons.
+          Fully explain historical risk and performance with CMS:Portfolio, an industry-leading portfolio analytics platform designed to perform what-if analyses, conduct stress tests and yield curve scenarios, and shock all drivers of risk and return over different horizons.
           </p>
         </div>
       </div>
