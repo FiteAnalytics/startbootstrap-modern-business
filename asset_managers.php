@@ -95,7 +95,7 @@
         </div>
         <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
           <div class="card h-100 text-center card-no-border">
-            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/testing_icon.png" alt=""></a>
+            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/stress_testing.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Stress Testing</h4>
               <p class="card-text">Perform rate shocks, key-rate duration shifts, and other interest-sensitive scenarios against portfolios and individual securities.</p>
