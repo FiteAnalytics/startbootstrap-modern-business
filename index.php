@@ -131,7 +131,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/support.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Dedicated Support</h4>
-              <p class="card-text">We're veterans in the space and we understand your business. We are able to help you with data, research or any task that will make your analytics more delightful!</p>
+              <p class="card-text">We're veterans in the space and we understand your business. We are able to help you with data, research or any task that will make your work more efficient!</p>
             </div>
           </div>
         </div>
