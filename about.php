@@ -31,7 +31,7 @@
       <!-- Intro Content -->
       <div class="row">
         <div class="col-lg-6">
-          <img class="img-fluid rounded mb-4" src="http://placehold.it/750x450" alt="">
+          <img class="img-fluid rounded mb-4" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/lifeguard.png" alt="">
         </div>
         <div class="col-lg-6">
           <h1 class="navbar-brand"><strong>Fite Analytics LLC</strong></h1>
