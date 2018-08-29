@@ -47,8 +47,8 @@
       <file leaf-file-name="feeds_apis.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/feeds_apis.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="88" column="131" lean-forward="false" selection-start-line="88" selection-start-column="131" selection-end-line="88" selection-end-column="131" />
+            <state relative-caret-position="362">
+              <caret line="105" column="205" lean-forward="false" selection-start-line="105" selection-start-column="205" selection-end-line="105" selection-end-column="205" />
               <folding />
             </state>
           </provider>
@@ -550,8 +550,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/feeds_apis.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="88" column="131" lean-forward="false" selection-start-line="88" selection-start-column="131" selection-end-line="88" selection-end-column="131" />
+        <state relative-caret-position="362">
+          <caret line="105" column="205" lean-forward="false" selection-start-line="105" selection-start-column="205" selection-end-line="105" selection-end-column="205" />
           <folding />
         </state>
       </provider>

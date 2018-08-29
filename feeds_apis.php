@@ -43,12 +43,12 @@
       </div>
       <!-- /.row -->
     <br>
-    <!-- What We Do Section -->
+    <!-- What We Offer Section -->
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <h2 class="whitetext">what we do</h2>
-          <p>CMS:Portfolio combines fixed income market data, high-precision analytics, and S&P Dow Jones Indices on a fast, secure cloud-native platform.</p>
+          <h2 class="whitetext">what we offer</h2>
+          <p></p>
         </div>
       </div>
       <!-- /.row -->
@@ -97,30 +97,13 @@
     </div>
     <!-- /.container -->
 
-      <!-- Features Section -->
-      <div class="row">
-        <div class="col-lg-6">
-          <h2>CMS:Portfolio is built on the latest technology</h2>
-          <ul>
-            <li>Cloud-native on Amazon AWS</li>
-            <li>Web applications, mobile-ready</li>
-            <li>Distributed ledgers for security & interoperability</li>
-            <li>Ultra-fast scalable computation grid</li>
-            <li>Portfolio time-machine - view anything as-of any date</li>
-          </ul>
-        </div>
-        <div class="col-lg-6">
-          <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/tech_cartoon.png" alt="">
-        </div>
-      </div>
-      <!-- /.row -->
 
       <hr>
 
       <!-- Call to Action Section -->
       <div class="row mb-4">
         <div class="col-md-8">
-          <p class="peachtext">Do you have a portfolio that you would like to analyze on CMS:Portfolio? We can get you up and running quickly, usually the same day. We are serious about Zero Implementation!</p>
+          <p class="peachtext">Do you have a have a project that requires easy access to a wide range of calculations and content? We can get you up and running with our SDKs and APIs in a matter of hours.</p>
         </div>
         <div class="col-md-4">
           <a class="btn btn-lg btn-secondary btn-block" href="contact.php">Contact Us Today</a>
