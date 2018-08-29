@@ -92,7 +92,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/spdji_logo_new.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Data Quality Checks</h4>
-              <p class="card-text">We believe that multiple data sources is a prudent approach to maintaining mission-critical security information. Use our data as a second source of information so that you are not left holding the bill!</p>
+              <p class="card-text">We believe that multiple data sources is a prudent approach to maintaining mission-critical security information. Use our data as an alternate source of information so that you are not left stranded!</p>
             </div>
           </div>
         </div>

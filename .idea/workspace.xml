@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b2cfa95-ded6-4796-9751-300567a1a10e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.php" afterPath="$PROJECT_DIR$/about.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset_managers.php" afterPath="$PROJECT_DIR$/asset_managers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_management.php" afterPath="$PROJECT_DIR$/data_management.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,18 +58,18 @@
       <file leaf-file-name="data_management.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_management.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1158">
-              <caret line="110" column="62" lean-forward="true" selection-start-line="110" selection-start-column="62" selection-end-line="110" selection-end-column="73" />
+            <state relative-caret-position="386">
+              <caret line="94" column="177" lean-forward="false" selection-start-line="94" selection-start-column="177" selection-end-line="94" selection-end-column="177" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="asset_managers.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="asset_managers.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/asset_managers.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+            <state relative-caret-position="143">
+              <caret line="88" column="128" lean-forward="false" selection-start-line="88" selection-start-column="128" selection-end-line="88" selection-end-column="128" />
               <folding />
             </state>
           </provider>
@@ -84,7 +85,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
@@ -121,13 +122,13 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/vendor/about.php" />
         <option value="$PROJECT_DIR$/navigation.php" />
-        <option value="$PROJECT_DIR$/data_management.php" />
         <option value="$PROJECT_DIR$/css/fite.css" />
         <option value="$PROJECT_DIR$/feeds_apis.php" />
         <option value="$PROJECT_DIR$/broker_dealers.php" />
-        <option value="$PROJECT_DIR$/asset_managers.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/about.php" />
+        <option value="$PROJECT_DIR$/data_management.php" />
+        <option value="$PROJECT_DIR$/asset_managers.php" />
       </list>
     </option>
   </component>
@@ -508,22 +509,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/asset_managers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_management.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1158">
-          <caret line="110" column="62" lean-forward="true" selection-start-line="110" selection-start-column="62" selection-end-line="110" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/broker_dealers.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -552,6 +537,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="33" column="128" lean-forward="false" selection-start-line="33" selection-start-column="128" selection-end-line="33" selection-end-column="128" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_management.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="94" column="177" lean-forward="false" selection-start-line="94" selection-start-column="177" selection-end-line="94" selection-end-column="177" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset_managers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="88" column="128" lean-forward="false" selection-start-line="88" selection-start-column="128" selection-end-line="88" selection-end-column="128" />
           <folding />
         </state>
       </provider>
