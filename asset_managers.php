@@ -104,6 +104,24 @@
         </div>
         <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
           <div class="card h-100 text-center card-no-border">
+            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/magnifier.png" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">'Like' Bond Searches</h4>
+              <p class="card-text">Search for Bonds that are similar in yield, duration, sensitivity and risk.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+          <div class="card h-100 text-center card-no-border">
+            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/ladder.png" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">Ladder Constructors</h4>
+              <p class="card-text">Use a schedule of liabilities or a target benchmark as a set of criteria for automated portfolio construction.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+          <div class="card h-100 text-center card-no-border">
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/handshake.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Monitoring</h4>
