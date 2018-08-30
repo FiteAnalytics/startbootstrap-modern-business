@@ -37,7 +37,7 @@
         </div>
         <div class="col-lg-6">
           <h2 class="whitetext">who we are</h2>
-          <p>Fite Analytics helps fixed income investors manage Risk and Return. Our platform, <strong>CMS:Portfolio</strong>, is powered
+          <p class="justify-text">Fite Analytics helps fixed income investors manage Risk and Return. Our platform, <strong>CMS:Portfolio</strong>, is powered
             by benchmarks from <a class="subtle-a" href="https://us.spindices.com/" target="_blank">S&P Dow Jones Indices</a>
             and extensive market content
             from <a class="subtle-a" href="https://www.exchange-data.com/" target="_blank">Exchange Data International</a>.
@@ -68,7 +68,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/database_black_white_icon.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Security Database</h4>
-              <p class="card-text">CMS:Portfolio includes extensive global fixed income security reference and pricing data, and detailed index holdings and history.</p>
+              <p class="card-text justify-text">CMS:Portfolio includes extensive global fixed income security reference and pricing data, and detailed index holdings and history.</p>
             </div>
           </div>
         </div>
@@ -77,7 +77,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/analytics_black_white.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Security Analytics</h4>
-              <p class="card-text">We calculate industry-standard and cutting-edge analytic measures across a wide range of fixed income asset classes, both public and private.</p>
+              <p class="card-text justify-text">We calculate industry-standard and cutting-edge analytic measures across a wide range of fixed income asset classes, both public and private.</p>
             </div>
           </div>
         </div>
