@@ -176,8 +176,6 @@
       <!-- /.row -->
     </div>
     <!-- /.container -->
-    <div class="container">
-      <?php include 'footer.php'; ?>
-    </div>
+    <?php include 'footer.php'; ?>
   </body>
 </html>
