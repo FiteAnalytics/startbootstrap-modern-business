@@ -25,7 +25,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <h1 class="hero-text">CMS:Portfolio</h1>
-                    <h1 class="hero-text"><small>Fixed-Income Analytics</small></h1>
+                    <h1 class="hero-text"><small>Fixed-Income Analytics Platform</small></h1>
                 </div>
                 <div class="col-lg-6">
                     <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/diag1.png" alt="">
@@ -146,7 +146,7 @@
 
       <!-- Features Section -->
       <div class="row">
-        <div class="col-lg-8">
+        <div class="col-lg-9">
           <h2>CMS:Portfolio is built on the latest technology</h2>
           <ul>
             <li>Cloud-native on Amazon AWS</li>
@@ -157,9 +157,10 @@
             <li>Massively large portfolios - maintain any number of portfolios with any number of securities</li>
           </ul>
         </div>
-        <div class="col-lg-4">
+        <div class="col-lg-3">
           <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/apn_logo.png" alt="">
           <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/rabbitmq.png" alt="">
+          <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/hyperledger.png" alt="">
           <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/python.png" alt="">
         </div>
       </div>
