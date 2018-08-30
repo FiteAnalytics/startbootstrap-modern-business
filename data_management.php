@@ -41,8 +41,8 @@
           information with public security information to provide a complete view of your portfolios. We collect data
           from hundreds of sources daily and we make this content available at a reasonable cost.</p>
           <p class="justify-text">Fixed income data is a significant challenge, so we provide a service bureau that your firm can
-          rely upon to keep your data fresh and accurate. Let us take on the research for you - whether you need information on CDs,
-          bank loans, or structured products, we have the skills required to navigate the fixed income information jungle.</p>
+          rely upon to keep your data fresh and accurate. Let us take on the research for you - whether you manage corporates, munis, government, CDs,
+          bank loans, or structured products, we have the know-how required for accurate and timely analytics.</p>
         </div>
       </div>
       <!-- /.row -->
