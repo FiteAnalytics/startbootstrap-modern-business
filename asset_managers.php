@@ -116,7 +116,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/ladder.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Ladder Constructors</h4>
-              <p class="card-text justify-text">Use a schedule of liabilities or a target benchmark as a set of criteria for automated portfolio construction.</p>
+              <p class="card-text justify-text">Use a list of available securities, schedule of liabilities, target benchmark or a bond search filter as criteria for automated portfolio construction.</p>
             </div>
           </div>
         </div>
@@ -125,7 +125,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/stethoscope.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Monitoring</h4>
-              <p class="card-text justify-text">Keep tabs on your portfolio - we constantly monitor and (if you wish) alert on price movement, ratings changes, redemptions and other events.</p>
+              <p class="card-text justify-text">Keep tabs on your portfolio - we constantly monitor and (if you wish) alert on price movement, ratings changes, calls, redemptions and other events.</p>
             </div>
           </div>
         </div>
