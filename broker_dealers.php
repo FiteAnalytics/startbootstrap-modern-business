@@ -70,7 +70,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/support.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Research Service Bureau</h4>
-              <p class="card-text justify-text">We calculate industry-standard and cutting-edge analytic measures across a wide range of fixed income asset classes, both public and private.</p>
+              <p class="card-text justify-text">We are an extension of your analyst team and will help you consolidate data across multiple sources and fill any data gaps. We are a rapid-development shop with very fast turnaround times.</p>
             </div>
           </div>
         </div>
