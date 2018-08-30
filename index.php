@@ -18,7 +18,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-6">
-            <h1 class="hero-text" style="margin: 0; position: absolute; top: 40%; right: 0%; text-align: right">CMS:Portfolio<br><small>Fixed-Income Analytics Platform</small></h1>
+            <h1 class="hero-text" style="margin: 0; position: relative; top: 40%; right: 0%; text-align: right">CMS:Portfolio<br><small>Fixed-Income Analytics Platform</small></h1>
           </div>
           <div class="col-lg-6">
             <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/diag1.png" alt="">
