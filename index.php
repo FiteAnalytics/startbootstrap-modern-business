@@ -25,6 +25,7 @@
           <h1 class="hero-text">CMS:Portfolio
             <small>Fixed-Income Analytics</small>
           </h1>
+          <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/diag1.png" alt="">
           <h2 class="hero-subtext">Accurate, Comprehensive, & Extremely Fast</h2>
         </div>
     </div>
