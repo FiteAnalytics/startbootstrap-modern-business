@@ -161,7 +161,7 @@
           <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/apn_logo.png" alt="">
           <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/rabbitmq.png" alt="">
           <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/hyperledger.png" alt="">
-          <img class="img-fluid rounded" style="max-width: 100%;" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/python.png" alt="">
+          <img class="img-fluid rounded" style="width: 100%;" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/python.png" alt="">
         </div>
       </div>
       <!-- /.row -->
