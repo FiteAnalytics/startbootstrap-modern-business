@@ -37,9 +37,9 @@
         </div>
         <div class="col-lg-6">
           <h2 class="whitetext">how we can help</h2>
-          <p class="justify-text">Provide insight into your clients' portfolios to help them optimize for risk and return.
-          Generate your own analysis of price, yields, cash flow and market liquidity across numerous clients. Customize report books
-          for your firm and generate them on-demand.</p>
+          <p class="justify-text">Provide insight into your clients' portfolios to optimize for risk and return.
+          Generate analyses of price, yield, cash flow and market liquidity across any number of portfolios. Customize report books
+          for your firm and publish them efficiently on-demand.</p>
         </div>
       </div>
       <!-- /.row -->
