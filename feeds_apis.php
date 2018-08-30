@@ -33,7 +33,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6">
-          <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/integration.png" alt="">
+          <img class="img-fluid rounded" style="size: 50%;" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/integration.png" alt="">
         </div>
         <div class="col-lg-6">
           <h2 class="whitetext">how we can help</h2>
@@ -43,61 +43,6 @@
       </div>
       <!-- /.row -->
     <br>
-    <!-- What We Offer Section -->
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <h2 class="whitetext">what we offer</h2>
-          <p></p>
-        </div>
-      </div>
-      <!-- /.row -->
-    </div>
-
-          <!-- Page Content -->
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
-          <div class="card h-100 text-center card-no-border">
-            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/python.png" alt=""></a>
-            <div class="card-body">
-              <h4 class="card-title">Python SDK</h4>
-              <p class="card-text justify-text"></p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
-          <div class="card h-100 text-center card-no-border">
-            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/web_api.png" alt=""></a>
-            <div class="card-body">
-              <h4 class="card-title">Web Service APIs</h4>
-              <p class="card-text justify-text"></p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
-          <div class="card h-100 text-center card-no-border">
-            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/download.png" alt=""></a>
-            <div class="card-body">
-              <h4 class="card-title">Off-the-Shelf Data Feeds</h4>
-              <p class="card-text justify-text"></p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
-          <div class="card h-100 text-center card-no-border">
-            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/download.png" alt=""></a>
-            <div class="card-body">
-              <h4 class="card-title">Custom Data Feeds</h4>
-              <p class="card-text justify-text"></p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- /.container -->
-
-
       <hr>
 
       <!-- Call to Action Section -->
