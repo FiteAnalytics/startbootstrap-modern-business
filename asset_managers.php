@@ -71,7 +71,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/analytics_black_white.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Pre-Trade Analysis</h4>
-              <p class="card-text justify-text">We calculate industry-standard and cutting-edge analytic measures across a wide range of fixed income asset classes, both public and private.</p>
+              <p class="card-text justify-text">Quickly determine the pro-forma impact of any trade or swap. Risk, return, and cash flow impacts on-demand.</p>
             </div>
           </div>
         </div>
@@ -98,7 +98,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/scale.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Liability-Driven Investment Strategies</h4>
-              <p class="card-text justify-text">Easily load liability schedules as basis for LDI. Forecast cash flows for complex portfolios with mixed accrual and settlement conventions, or perform swap analysis to determine cash flow impact. Run scenarios against reserve limits.</p>
+              <p class="card-text justify-text">Easily load any number of liability schedules. Forecast cash flows for complex portfolios with mixed accrual and settlement conventions, or perform swap analysis to determine cash flow impact. Run scenarios against reserve limits.</p>
             </div>
           </div>
         </div>
