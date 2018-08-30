@@ -22,10 +22,7 @@
     <?php include 'navigation.php'; ?>
     <div class="navbar under-nav">
         <div class="container centered-text">
-          <h1 class="hero-text">CMS:Portfolio
-            <small>Fixed-Income Analytics</small>
-          </h1>
-          <h2 class="hero-subtext">Accurate, Comprehensive, & Extremely Fast</h2>
+          <h2 class="hero-subtext">contact us</h2>
         </div>
     </div>
     <br>
@@ -35,7 +32,8 @@
         <!-- Map Column -->
         <div class="col-lg-8 mb-4">
           <!-- Embedded Google Map -->
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3311.5609030763285!2d-118.39463364952907!3d33.90096083304033!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2b4076f63cd35%3A0x61cd12182890d14!2s1240+Rosecrans+Ave%2C+Manhattan+Beach%2C+CA+90266!5e0!3m2!1sen!2sus!4v1535600502636" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>        </div>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3311.5609030763285!2d-118.39463364952907!3d33.90096083304033!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2b4076f63cd35%3A0x61cd12182890d14!2s1240+Rosecrans+Ave%2C+Manhattan+Beach%2C+CA+90266!5e0!3m2!1sen!2sus!4v1535600502636" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+        </div>
         <!-- Contact Details Column -->
         <div class="col-lg-4 mb-4">
           <h3>our office</h3>
