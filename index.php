@@ -21,12 +21,17 @@
   <body>
     <?php include 'navigation.php'; ?>
     <div class="navbar under-nav">
-        <div class="container centered-text">
-          <h1 class="hero-text">CMS:Portfolio
-            <small>Fixed-Income Analytics</small>
-          </h1>
-          <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/diag1.png" alt="">
-          <h2 class="hero-subtext">Accurate, Comprehensive, & Extremely Fast</h2>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <h1 class="hero-text">CMS:Portfolio
+                        <small>Fixed-Income Analytics</small>
+                    </h1>
+                </div>
+                <div class="col-lg-6">
+                    <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/diag1.png" alt="">
+                </div>
+            </div>
         </div>
     </div>
     <br>
