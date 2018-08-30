@@ -24,9 +24,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <h1 class="hero-text">CMS:Portfolio
-                        <small>Fixed-Income Analytics</small>
-                    </h1>
+                    <h1 class="hero-text">CMS:Portfolio</h1>
+                    <h1 class="hero-text"><small>Fixed-Income Analytics</small></h1>
                 </div>
                 <div class="col-lg-6">
                     <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/diag1.png" alt="">
