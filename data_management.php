@@ -65,7 +65,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/database_black_white_icon.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Reference and Pricing Data Updates</h4>
-              <p class="card-text justify-text">We maintain fresh coverage of the global fixed income markets, including terms & conditions, prices, embedded optionality, redemptions, calls, and defaults.</p>
+              <p class="card-text justify-text">We maintain extensive coverage of the global fixed income markets, including terms & conditions, prices, embedded optionality, redemptions, calls, and defaults.</p>
             </div>
           </div>
         </div>
@@ -92,7 +92,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/magnifier.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Data Quality Checks</h4>
-              <p class="card-text justify-text">We believe that multiple data sources is a prudent approach to maintaining mission-critical security information. Use our data as an alternate source of information so that you are not left stranded!</p>
+              <p class="card-text justify-text">We believe that multiple data sources is prudent when maintaining mission-critical security information. Use our data as an alternate source of information so that you are not left stranded!</p>
             </div>
           </div>
         </div>
