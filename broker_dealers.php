@@ -37,7 +37,9 @@
         </div>
         <div class="col-lg-6">
           <h2 class="whitetext">how we can help</h2>
-          <p class="justify-text">Broker-Dealers provide insight into their clients portfolios and optimise for risk and return, especially at the critical pre-trade decision point. Broker-Dealers add significant value in pricing, yield maximiation, cash flow planning and market liquidity. When these activities are combined with actionable analytics the result is pure portoflio optimization.</p>
+          <p class="justify-text">Provide insight into you clients' portfolios to help them optimize for risk and return.
+          Generate your own analysis of price, yields, cash flow and market liquidity across numerous clients. Customize report books
+          for your firm and generate them on-demand.</p>
         </div>
       </div>
       <!-- /.row -->
