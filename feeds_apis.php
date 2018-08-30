@@ -40,6 +40,41 @@
       </div>
       <!-- /.row -->
     <br>
+    <!-- What We Offer Section -->
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <h2 class="whitetext">what we offer</h2>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+
+          <!-- Page Content -->
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+          <div class="card h-100 text-center card-no-border">
+            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/python.png" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">Python SDK</h4>
+              <p class="card-text justify-text">Risk, return and valuation calculations are available in a python SDK. Security reference and pricing data access methods are included.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+          <div class="card h-100 text-center card-no-border">
+            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/dowload.png" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">Data Feeds</h4>
+              <p class="card-text justify-text">We have a range of data feeds that include our security-level risk, return and valuation analytics. We also provide custom data feeds for portfolios or sectors.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- /.container -->
+
       <hr>
 
       <!-- Call to Action Section -->

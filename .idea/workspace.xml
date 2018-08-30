@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8b2cfa95-ded6-4796-9751-300567a1a10e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/broker_dealers.php" afterPath="$PROJECT_DIR$/broker_dealers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/feeds_apis.php" afterPath="$PROJECT_DIR$/feeds_apis.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="broker_dealers.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="broker_dealers.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/broker_dealers.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="72" column="236" lean-forward="false" selection-start-line="72" selection-start-column="236" selection-end-line="72" selection-end-column="236" />
+            <state relative-caret-position="-9">
+              <caret line="72" column="160" lean-forward="false" selection-start-line="72" selection-start-column="160" selection-end-line="72" selection-end-column="160" />
               <folding />
             </state>
           </provider>
@@ -89,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="feeds_apis.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="feeds_apis.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/feeds_apis.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="668">
-              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+            <state relative-caret-position="536">
+              <caret line="69" column="208" lean-forward="false" selection-start-line="69" selection-start-column="208" selection-end-line="69" selection-end-column="208" />
               <folding />
             </state>
           </provider>
@@ -102,8 +103,8 @@
       <file leaf-file-name="data_management.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_management.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="668">
-              <caret line="115" column="0" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+            <state relative-caret-position="743">
+              <caret line="99" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -142,11 +143,11 @@
         <option value="$PROJECT_DIR$/tos.php" />
         <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/feeds_apis.php" />
         <option value="$PROJECT_DIR$/data_management.php" />
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/asset_managers.php" />
         <option value="$PROJECT_DIR$/broker_dealers.php" />
+        <option value="$PROJECT_DIR$/feeds_apis.php" />
       </list>
     </option>
   </component>
@@ -607,22 +608,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/feeds_apis.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
-          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_management.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
-          <caret line="115" column="0" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
@@ -649,8 +634,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/broker_dealers.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="72" column="236" lean-forward="false" selection-start-line="72" selection-start-column="236" selection-end-line="72" selection-end-column="236" />
+        <state relative-caret-position="-9">
+          <caret line="72" column="160" lean-forward="false" selection-start-line="72" selection-start-column="160" selection-end-line="72" selection-end-column="160" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_management.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="743">
+          <caret line="99" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feeds_apis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="69" column="208" lean-forward="false" selection-start-line="69" selection-start-column="208" selection-end-line="69" selection-end-column="208" />
           <folding />
         </state>
       </provider>

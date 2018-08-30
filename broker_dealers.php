@@ -70,7 +70,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/support.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Research Service Bureau</h4>
-              <p class="card-text justify-text">We are an extension of your analyst team and will help you consolidate data across multiple sources and fill any data gaps. We are a rapid-development shop with very fast turnaround times.</p>
+              <p class="card-text justify-text">We are an extension of your analyst team and will help you consolidate data across multiple sources and fill any gaps. We are a rapid-development shop with very fast turnaround times.</p>
             </div>
           </div>
         </div>
