@@ -141,7 +141,7 @@
 
       <!-- Features Section -->
       <div class="row">
-        <div class="col-lg-6">
+        <div class="col-lg-8">
           <h2>CMS:Portfolio is built on the latest technology</h2>
           <ul>
             <li>Cloud-native on Amazon AWS</li>
@@ -152,7 +152,7 @@
             <li>Massively large portfolios - maintain any number of portfolios with any number of securities</li>
           </ul>
         </div>
-        <div class="col-lg-6">
+        <div class="col-lg-4">
           <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/apn_logo.png" alt="">
           <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/rabbitmq.png" alt="">
           <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/python.png" alt="">
