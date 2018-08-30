@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8b2cfa95-ded6-4796-9751-300567a1a10e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.php" afterPath="$PROJECT_DIR$/about.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/feeds_apis.php" afterPath="$PROJECT_DIR$/feeds_apis.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -90,8 +89,8 @@
       <file leaf-file-name="about.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="548">
-              <caret line="38" column="222" lean-forward="false" selection-start-line="38" selection-start-column="222" selection-end-line="38" selection-end-column="222" />
+            <state relative-caret-position="542">
+              <caret line="37" column="197" lean-forward="false" selection-start-line="37" selection-start-column="197" selection-end-line="37" selection-end-column="197" />
               <folding />
             </state>
           </provider>
@@ -647,8 +646,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="38" column="222" lean-forward="false" selection-start-line="38" selection-start-column="222" selection-end-line="38" selection-end-column="222" />
+        <state relative-caret-position="542">
+          <caret line="37" column="197" lean-forward="false" selection-start-line="37" selection-start-column="197" selection-end-line="37" selection-end-column="197" />
           <folding />
         </state>
       </provider>
