@@ -33,7 +33,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6">
-          <img class="img-fluid rounded" style="size: 25%;" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/integration.png" alt="">
+          <img class="img-fluid rounded" style="max-width: 50%;" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/integration.png" alt="">
         </div>
         <div class="col-lg-6">
           <h2 class="whitetext">how we can help</h2>
