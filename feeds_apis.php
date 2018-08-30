@@ -54,6 +54,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
           <div class="card h-100 text-center card-no-border">
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/python.png" alt=""></a>
             <div class="card-body">
