@@ -89,7 +89,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/spdji_logo_new.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Benchmark Comparisons</h4>
-              <p class="card-text justify-text">Compare any portfolio to any index with constituent-level comparisons and yield curves. Use benchmark comparisons in pre-trade analysis, and identify securities that are dragging on risk or return drivers relative to any index.</p>
+              <p class="card-text justify-text">Compare any portfolio to any index at the constituent level. Use benchmark analytics in pre-trade decisions, and identify securities that are dragging on risk or return drivers relative to any index.</p>
             </div>
           </div>
         </div>
