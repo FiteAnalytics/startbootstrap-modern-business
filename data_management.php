@@ -83,13 +83,13 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/portfolio_icon.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Private Security Research</h4>
-              <p class="card-text justify-text">Let us do the hard work for you - simply give us a list of security identifiers and we'll maintain current and accurate data.</p>
+              <p class="card-text justify-text">Let us do the hard work for you - simply give us a list of security identifiers and we will research and maintain the data.</p>
             </div>
           </div>
         </div>
         <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
           <div class="card h-100 text-center card-no-border">
-            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/spdji_logo_new.png" alt=""></a>
+            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/magnifier.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Data Quality Checks</h4>
               <p class="card-text justify-text">We believe that multiple data sources is a prudent approach to maintaining mission-critical security information. Use our data as an alternate source of information so that you are not left stranded!</p>
