@@ -1,37 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
-
   <head>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-
     <title>fite analytics llc</title>
-
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
     <!-- Custom styles for this template -->
     <link href="css/fite.css" rel="stylesheet">
     <link rel="stylesheet" href="https://use.typekit.net/vgr7dzc.css">
   </head>
-
   <body>
     <?php include 'navigation.php'; ?>
     <div class="navbar under-nav">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <h1 class="hero-text">CMS:Portfolio</h1>
-                    <h1 class="hero-text"><small>Fixed-Income Analytics Platform</small></h1>
-                </div>
-                <div class="col-lg-6">
-                    <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/diag1.png" alt="">
-                </div>
-            </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6">
+            <h1 class="hero-text">CMS:Portfolio</h1>
+            <h1 class="hero-text"><small>Fixed-Income Analytics Platform</small></h1>
+          </div>
+          <div class="col-lg-6">
+            <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/diag1.png" alt="">
+          </div>
         </div>
+      </div>
     </div>
     <br>
     <!-- Who We Are Section -->
@@ -146,6 +140,7 @@
       <hr>
       <br>
       <!-- Call to Action Section -->
+    <div class="container">
       <div class="row mb-4">
         <div class="col-md-8">
           <h6 class="peachtext">Do you have a portfolio that you would like to analyze on CMS:Portfolio? We can get you up and running quickly, usually the same day. We are serious about Zero Implementation!</h6>
@@ -154,9 +149,10 @@
           <a class="btn btn-lg btn-secondary btn-block" href="contact.php">Contact Us Today</a>
         </div>
       </div>
-
       <hr>
-
+      <br>
+    </div>
+    <div class="container">
       <!-- Features Section -->
       <div class="row">
         <div class="col-lg-9">
@@ -178,12 +174,8 @@
         </div>
       </div>
       <!-- /.row -->
-
-
     </div>
     <!-- /.container -->
-
     <?php include 'footer.php'; ?>
   </body>
-
 </html>
