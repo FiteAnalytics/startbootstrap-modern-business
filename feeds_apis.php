@@ -34,7 +34,7 @@
         </div>
         <div class="col-lg-6">
           <h2 class="whitetext">how we can help</h2>
-          <p class="justify-text">All of our analytic calculations and content are available as APIs and data feeds. Using Python or simple Web Services, call our calculations directly from your spreadsheets or notebooks, or embed our calculations in your existing systems.</p>
+          <p class="justify-text">Our analytic calculations and content are available as APIs and data feeds. Using Python or simple Web Services, call our calculations directly from your spreadsheets or notebooks, or embed our calculations in your existing systems.</p>
           <p class="justify-text">Just need data and derived analytics? We have daily and weekly data feeds that can be tailored to your specific requirements.</p>
         </div>
       </div>
