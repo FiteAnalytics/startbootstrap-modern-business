@@ -113,6 +113,7 @@
     <!-- /.container -->
 
     <?php include 'footer.php'; ?>
+    <?php include 'google_tracker.php';>
   </body>
 
 </html>

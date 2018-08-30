@@ -327,3 +327,4 @@
         <p><a href="http://finx.io/finx/privacy">click here</a> for this site&rsquo;s privacy policy</p>
     </div>
 </div>
+<?php include 'google_tracker.php';>
