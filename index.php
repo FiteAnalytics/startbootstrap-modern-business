@@ -47,9 +47,8 @@
         </div>
       </div>
       <!-- /.row -->
-    <br>
-    <!-- What We Do Section -->
-    <div class="container">
+      <br>
+      <!-- What We Do Section -->
       <div class="row">
         <div class="col-lg-12">
           <h2 class="whitetext">what we do</h2>
@@ -57,10 +56,6 @@
         </div>
       </div>
       <!-- /.row -->
-    </div>
-
-          <!-- Page Content -->
-    <div class="container">
       <div class="row">
         <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
           <div class="card h-100 text-center card-no-border">
@@ -135,12 +130,9 @@
           </div>
         </div>
       </div>
-    </div>
-    <!-- /.container -->
       <hr>
       <br>
       <!-- Call to Action Section -->
-    <div class="container">
       <div class="row mb-4">
         <div class="col-md-8">
           <h6 class="peachtext">Do you have a portfolio that you would like to analyze on CMS:Portfolio? We can get you up and running quickly, usually the same day. We are serious about Zero Implementation!</h6>
@@ -151,8 +143,6 @@
       </div>
       <hr>
       <br>
-    </div>
-    <div class="container">
       <!-- Features Section -->
       <div class="row">
         <div class="col-lg-9">
