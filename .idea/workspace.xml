@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b2cfa95-ded6-4796-9751-300567a1a10e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/broker_dealers.php" afterPath="$PROJECT_DIR$/broker_dealers.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/feeds_apis.php" afterPath="$PROJECT_DIR$/feeds_apis.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -93,8 +92,8 @@
       <file leaf-file-name="feeds_apis.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/feeds_apis.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="536">
-              <caret line="69" column="208" lean-forward="false" selection-start-line="69" selection-start-column="208" selection-end-line="69" selection-end-column="208" />
+            <state relative-caret-position="491">
+              <caret line="66" column="123" lean-forward="false" selection-start-line="66" selection-start-column="123" selection-end-line="66" selection-end-column="123" />
               <folding />
             </state>
           </provider>
@@ -650,8 +649,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/feeds_apis.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="69" column="208" lean-forward="false" selection-start-line="69" selection-start-column="208" selection-end-line="69" selection-end-column="208" />
+        <state relative-caret-position="491">
+          <caret line="66" column="123" lean-forward="false" selection-start-line="66" selection-start-column="123" selection-end-line="66" selection-end-column="123" />
           <folding />
         </state>
       </provider>

@@ -64,7 +64,7 @@
         </div>
         <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
           <div class="card h-100 text-center card-no-border">
-            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/dowload.png" alt=""></a>
+            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/download.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Data Feeds</h4>
               <p class="card-text justify-text">We have a range of data feeds that include our security-level risk, return and valuation analytics. We also provide custom data feeds for portfolios or sectors.</p>
