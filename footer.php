@@ -2,7 +2,7 @@
     <footer class="py-5 bg-dark">
       <div class="container">
         <p class="m-0 text-center text-white">Copyright &copy; Fite Analytics LLC 2018</p>
-        <a href="tos.php">site terms</a>
+        <a class="m-0 text-center text-white" href="tos.php">site terms</a>
       </div>
       <!-- /.container -->
     </footer>
