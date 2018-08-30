@@ -37,8 +37,8 @@
         </div>
         <div class="col-lg-6">
           <h2 class="whitetext">how we can help</h2>
-          <p>All of our analytic calculations and content are available as APIs and data feeds. Using Python or simple Web Services, call our calculations directly from your spreadsheets or notebooks, or embed our calculations in your existing systems.</p>
-          <p>Just need data and derived analytics? We have daily and weekly data feeds that can be tailored to your specific requirements.</p>
+          <p class="justify-text">All of our analytic calculations and content are available as APIs and data feeds. Using Python or simple Web Services, call our calculations directly from your spreadsheets or notebooks, or embed our calculations in your existing systems.</p>
+          <p class="justify-text">Just need data and derived analytics? We have daily and weekly data feeds that can be tailored to your specific requirements.</p>
         </div>
       </div>
       <!-- /.row -->
@@ -62,7 +62,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/python.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Python SDK</h4>
-              <p class="card-text"></p>
+              <p class="card-text justify-text"></p>
             </div>
           </div>
         </div>
@@ -71,7 +71,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/web_api.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Web Service APIs</h4>
-              <p class="card-text"></p>
+              <p class="card-text justify-text"></p>
             </div>
           </div>
         </div>
@@ -80,7 +80,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/download.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Off-the-Shelf Data Feeds</h4>
-              <p class="card-text"></p>
+              <p class="card-text justify-text"></p>
             </div>
           </div>
         </div>
@@ -89,7 +89,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/download.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Custom Data Feeds</h4>
-              <p class="card-text"></p>
+              <p class="card-text justify-text"></p>
             </div>
           </div>
         </div>

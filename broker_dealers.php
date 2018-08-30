@@ -37,7 +37,7 @@
         </div>
         <div class="col-lg-6">
           <h2 class="whitetext">how we can help</h2>
-          <p>Broker-Dealers provide insight into their clients portfolios and optimise for risk and return, especially at the critical pre-trade decision point. Broker-Dealers add significant value in pricing, yield maximiation, cash flow planning and market liquidity. When these activities are combined with actionable analytics the result is pure portoflio optimization.</p>
+          <p class="justify-text">Broker-Dealers provide insight into their clients portfolios and optimise for risk and return, especially at the critical pre-trade decision point. Broker-Dealers add significant value in pricing, yield maximiation, cash flow planning and market liquidity. When these activities are combined with actionable analytics the result is pure portoflio optimization.</p>
         </div>
       </div>
       <!-- /.row -->
@@ -61,7 +61,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/database_black_white_icon.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Easy Import Workflow</h4>
-              <p class="card-text">We make it easy to load and maintain fixed income portfolios. Import positions, transactions, or both, then instantly calculate analytics and generate reports.</p>
+              <p class="card-text justify-text">We make it easy to load and maintain fixed income portfolios. Import positions, transactions, or both, then instantly calculate analytics and generate reports.</p>
             </div>
           </div>
         </div>
@@ -70,7 +70,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/analytics_black_white.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Security Analytics</h4>
-              <p class="card-text">We calculate industry-standard and cutting-edge analytic measures across a wide range of fixed income asset classes, both public and private.</p>
+              <p class="card-text justify-text">We calculate industry-standard and cutting-edge analytic measures across a wide range of fixed income asset classes, both public and private.</p>
             </div>
           </div>
         </div>
@@ -79,7 +79,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/portfolio_icon.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Portfolio Analytics</h4>
-              <p class="card-text">Risk, Return, and Valuation analytics for any portfolio can be generated between any two dates at any interval.</p>
+              <p class="card-text justify-text">Risk, Return, and Valuation analytics for any portfolio can be generated between any two dates at any interval.</p>
             </div>
           </div>
         </div>
@@ -88,7 +88,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/spdji_logo_new.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">S&P Dow Jones Indices</h4>
-              <p class="card-text">CMS:Portfolio includes the full family of fixed income indices produced by S&P Dow Jones, the global leader in financial indices.</p>
+              <p class="card-text justify-text">CMS:Portfolio includes the full family of fixed income indices produced by S&P Dow Jones, the global leader in financial indices.</p>
             </div>
           </div>
         </div>
@@ -97,7 +97,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/testing_icon.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Stress Testing</h4>
-              <p class="card-text">Perform rate shocks, key-rate duration shifts, and other interest-sensitive scenarios against portfolios and individual securities.</p>
+              <p class="card-text justify-text">Perform rate shocks, key-rate duration shifts, and other interest-sensitive scenarios against portfolios and individual securities.</p>
             </div>
           </div>
         </div>
@@ -106,7 +106,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/handshake.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Pre-trade Analytics</h4>
-              <p class="card-text">Comprehensive what-if analysis of any trade, with detailed impact analyses across risk, return, and cash flows.</p>
+              <p class="card-text justify-text">Comprehensive what-if analysis of any trade, with detailed impact analyses across risk, return, and cash flows.</p>
             </div>
           </div>
         </div>
@@ -115,7 +115,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/reporting.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Robust Reporting</h4>
-              <p class="card-text">Beautiful fixed income analytics reports in PDF or electronic format, mobile and presentation ready. Drag and drop results into your favorite desktop app.</p>
+              <p class="card-text justify-text">Beautiful fixed income analytics reports in PDF or electronic format, mobile and presentation ready. Drag and drop results into your favorite desktop app.</p>
             </div>
           </div>
         </div>
@@ -124,7 +124,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/support.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Dedicated Support</h4>
-              <p class="card-text">We're veterans in the space and we understand your business. We are able to help you with data, research or any task that will make your analytics more delightful!</p>
+              <p class="card-text justify-text">We're veterans in the space and we understand your business. We are able to help you with data, research or any task that will make your analytics more delightful!</p>
             </div>
           </div>
         </div>

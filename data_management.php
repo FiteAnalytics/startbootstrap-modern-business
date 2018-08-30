@@ -37,7 +37,7 @@
         </div>
         <div class="col-lg-6">
           <h2 class="whitetext">how we can help</h2>
-          <p>Fite Analytics maintains an extensive securities database and can securely combine your private security
+          <p class="justify-text">Fite Analytics maintains an extensive securities database and can securely combine your private security
           information with public security information to provide a complete view of your portfolios. We collect data
           from hundreds of sources daily and we make this content available at a reasonable cost.</p>
           <p>We recognize that fixed income data is never 100% complete, so we provide a service bureau that your firm can
@@ -65,7 +65,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/database_black_white_icon.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Reference and Pricing Data Updates</h4>
-              <p class="card-text">We maintain fresh coverage of the global fixed income markets, including terms & conditions, prices, embedded optionality, calls, redemptions, and defaults.</p>
+              <p class="card-text justify-text">We maintain fresh coverage of the global fixed income markets, including terms & conditions, prices, embedded optionality, calls, redemptions, and defaults.</p>
             </div>
           </div>
         </div>
@@ -74,7 +74,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/analytics_black_white.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Pricing Services</h4>
-              <p class="card-text">We provide yield, spot and relative value price estimates across a range of fixed income sectors.</p>
+              <p class="card-text justify-text">We provide yield, spot and relative value price estimates across a range of fixed income sectors.</p>
             </div>
           </div>
         </div>
@@ -83,7 +83,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/portfolio_icon.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Private Security Research</h4>
-              <p class="card-text">Let us do the hard work for you - simply give us a list of security identifiers and we'll maintain current and accurate data.</p>
+              <p class="card-text justify-text">Let us do the hard work for you - simply give us a list of security identifiers and we'll maintain current and accurate data.</p>
             </div>
           </div>
         </div>
@@ -92,7 +92,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/spdji_logo_new.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Data Quality Checks</h4>
-              <p class="card-text">We believe that multiple data sources is a prudent approach to maintaining mission-critical security information. Use our data as an alternate source of information so that you are not left stranded!</p>
+              <p class="card-text justify-text">We believe that multiple data sources is a prudent approach to maintaining mission-critical security information. Use our data as an alternate source of information so that you are not left stranded!</p>
             </div>
           </div>
         </div>

@@ -37,7 +37,7 @@
         </div>
         <div class="col-lg-6">
           <h2 class="whitetext">how we can help</h2>
-          <p>Understand Risk & Return at the portfolio, asset-class, and security level, versus benchmarks or liabilities.
+          <p class="justify-text">Understand Risk & Return at the portfolio, asset-class, and security level, versus benchmarks or liabilities.
           Fully explain historical risk and performance with CMS:Portfolio, an industry-leading portfolio analytics platform designed to perform what-if analyses, conduct stress tests and yield curve scenarios, and shock all drivers of risk and return over different horizons.
           </p>
         </div>
@@ -62,7 +62,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/database_black_white_icon.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Track Your Portfolio</h4>
-              <p class="card-text">CMS:Portfolio includes extensive global fixed income security reference and pricing data, and detailed index holdings and history.</p>
+              <p class="card-text justify-text">CMS:Portfolio includes extensive global fixed income security reference and pricing data, and detailed index holdings and history.</p>
             </div>
           </div>
         </div>
@@ -71,7 +71,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/analytics_black_white.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Pre-Trade Analysis</h4>
-              <p class="card-text">We calculate industry-standard and cutting-edge analytic measures across a wide range of fixed income asset classes, both public and private.</p>
+              <p class="card-text justify-text">We calculate industry-standard and cutting-edge analytic measures across a wide range of fixed income asset classes, both public and private.</p>
             </div>
           </div>
         </div>
@@ -80,7 +80,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/spdji_logo_new.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Benchmark Comparisons</h4>
-              <p class="card-text">Risk, Return, and Valuation analytics for any portfolio can be generated between any two dates at any interval.</p>
+              <p class="card-text justify-text">Risk, Return, and Valuation analytics for any portfolio can be generated between any two dates at any interval.</p>
             </div>
           </div>
         </div>
@@ -89,7 +89,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/scale.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Liability-Driven Investment Strategies</h4>
-              <p class="card-text">CMS:Portfolio includes the full family of fixed income indices produced by S&P Dow Jones, the global leader in financial indices.</p>
+              <p class="card-text justify-text">CMS:Portfolio includes the full family of fixed income indices produced by S&P Dow Jones, the global leader in financial indices.</p>
             </div>
           </div>
         </div>
@@ -98,7 +98,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/stress_testing.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Stress Testing</h4>
-              <p class="card-text">Perform rate shocks, key-rate duration shifts, and other interest-sensitive scenarios against portfolios and individual securities.</p>
+              <p class="card-text justify-text">Perform rate shocks, key-rate duration shifts, and other interest-sensitive scenarios against portfolios and individual securities.</p>
             </div>
           </div>
         </div>
@@ -107,7 +107,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/magnifier.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">'Like' Bond Searches</h4>
-              <p class="card-text">Search for Bonds that are similar in yield, duration, sensitivity and risk.</p>
+              <p class="card-text justify-text">Search for Bonds that are similar in yield, duration, sensitivity and risk.</p>
             </div>
           </div>
         </div>
@@ -116,7 +116,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/ladder.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Ladder Constructors</h4>
-              <p class="card-text">Use a schedule of liabilities or a target benchmark as a set of criteria for automated portfolio construction.</p>
+              <p class="card-text justify-text">Use a schedule of liabilities or a target benchmark as a set of criteria for automated portfolio construction.</p>
             </div>
           </div>
         </div>
@@ -125,7 +125,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/stethoscope.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Monitoring</h4>
-              <p class="card-text">Keep tabs on your portfolio - we constantly monitor and (if you wish) alert on price movement, ratings changes, redemptions and other events.</p>
+              <p class="card-text justify-text">Keep tabs on your portfolio - we constantly monitor and (if you wish) alert on price movement, ratings changes, redemptions and other events.</p>
             </div>
           </div>
         </div>

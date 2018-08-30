@@ -86,7 +86,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/portfolio_icon.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Portfolio Analytics</h4>
-              <p class="card-text">Risk, Return, and Valuation analytics for any portfolio can be generated between any two dates at any interval.</p>
+              <p class="card-text justify-text">Risk, Return, and Valuation analytics for any portfolio can be generated between any two dates at any interval.</p>
             </div>
           </div>
         </div>
@@ -95,7 +95,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/spdji_logo_new.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">S&P Dow Jones Indices</h4>
-              <p class="card-text">CMS:Portfolio includes the full family of fixed income indices produced by S&P Dow Jones, the global leader in financial indices.</p>
+              <p class="card-text justify-text">CMS:Portfolio includes the full family of fixed income indices produced by S&P Dow Jones, the global leader in financial indices.</p>
             </div>
           </div>
         </div>
@@ -104,7 +104,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/stress_testing.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Stress Testing</h4>
-              <p class="card-text">Perform rate shocks, key-rate duration shifts, and other interest-sensitive scenarios against portfolios and individual securities.</p>
+              <p class="card-text justify-text">Perform rate shocks, key-rate duration shifts, and other interest-sensitive scenarios against portfolios and individual securities.</p>
             </div>
           </div>
         </div>
@@ -113,7 +113,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/handshake.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Pre-trade Analytics</h4>
-              <p class="card-text">Comprehensive what-if analysis of any trade, with detailed impact analyses across risk, return, and cash flows.</p>
+              <p class="card-text justify-text">Comprehensive what-if analysis of any trade, with detailed impact analyses across risk, return, and cash flows.</p>
             </div>
           </div>
         </div>
@@ -122,7 +122,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/reporting.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Robust Reporting</h4>
-              <p class="card-text">Beautiful fixed income analytics reports in PDF or electronic format, mobile and presentation ready. Drag and drop results into your favorite desktop app.</p>
+              <p class="card-text justify-text">Beautiful fixed income analytics reports in PDF or electronic format, mobile and presentation ready. Drag and drop results into your favorite desktop app.</p>
             </div>
           </div>
         </div>
@@ -131,7 +131,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/support.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Dedicated Support</h4>
-              <p class="card-text">We're veterans in the space and we understand your business. We are able to help you with data, research or any task that will make your work more efficient!</p>
+              <p class="card-text justify-text">We're veterans in the space and we understand your business. We are able to help you with data, research or any task that will make your work more efficient!</p>
             </div>
           </div>
         </div>
