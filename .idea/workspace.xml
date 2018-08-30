@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b2cfa95-ded6-4796-9751-300567a1a10e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_management.php" afterPath="$PROJECT_DIR$/data_management.php" />
-    </list>
+    <list default="true" id="8b2cfa95-ded6-4796-9751-300567a1a10e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,8 +55,8 @@
       <file leaf-file-name="data_management.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data_management.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="91" column="128" lean-forward="false" selection-start-line="91" selection-start-column="128" selection-end-line="91" selection-end-column="128" />
+            <state relative-caret-position="361">
+              <caret line="89" column="63" lean-forward="true" selection-start-line="89" selection-start-column="63" selection-end-line="89" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -549,8 +547,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data_management.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="91" column="128" lean-forward="false" selection-start-line="91" selection-start-column="128" selection-end-line="91" selection-end-column="128" />
+        <state relative-caret-position="361">
+          <caret line="89" column="63" lean-forward="true" selection-start-line="89" selection-start-column="63" selection-end-line="89" selection-end-column="63" />
           <folding />
         </state>
       </provider>
