@@ -57,7 +57,7 @@
         </div>
         <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
           <div class="card h-100 text-center card-no-border">
-            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/python.png" alt=""></a>
+            <a href="#"><img class="card-img-top" style="width: 100%;" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/python.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Python SDK</h4>
               <p class="card-text justify-text">Risk, return and valuation calculations are available in a python SDK. Security reference and pricing data access methods are included.</p>
