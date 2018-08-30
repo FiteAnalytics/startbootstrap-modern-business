@@ -18,7 +18,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-6">
-            <h1 class="hero-text">CMS:Portfolio</h1>
+            <h1 class="hero-text" style="margin: 0; position: absolute; top: 50%; right: 0%; text-align: right">CMS:Portfolio</h1>
             <h1 class="hero-text"><small>Fixed-Income Analytics Platform</small></h1>
           </div>
           <div class="col-lg-6">
