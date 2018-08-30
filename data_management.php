@@ -65,7 +65,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/database_black_white_icon.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Reference and Pricing Data Updates</h4>
-              <p class="card-text justify-text">We maintain fresh coverage of the global fixed income markets, including terms & conditions, prices, embedded optionality, calls, redemptions, and defaults.</p>
+              <p class="card-text justify-text">We maintain fresh coverage of the global fixed income markets, including terms & conditions, prices, embedded optionality, redemptions, calls, and defaults.</p>
             </div>
           </div>
         </div>
