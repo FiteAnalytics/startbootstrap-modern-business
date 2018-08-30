@@ -148,7 +148,7 @@
       <!-- Call to Action Section -->
       <div class="row mb-4">
         <div class="col-md-8">
-          <h4 class="peachtext">Do you have a portfolio that you would like to analyze on CMS:Portfolio? We can get you up and running quickly, usually the same day. We are serious about Zero Implementation!</h4>
+          <h5 class="peachtext">Do you have a portfolio that you would like to analyze on CMS:Portfolio? We can get you up and running quickly, usually the same day. We are serious about Zero Implementation!</h5>
         </div>
         <div class="col-md-4">
           <a class="btn btn-lg btn-secondary btn-block" href="contact.php">Contact Us Today</a>
