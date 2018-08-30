@@ -62,7 +62,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/database_black_white_icon.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Track Your Portfolio</h4>
-              <p class="card-text justify-text">CMS:Portfolio includes extensive global fixed income security reference and pricing data, and detailed index holdings and history.</p>
+              <p class="card-text justify-text">Easy import of portfolio positions and/or transactions. Maintain any number of portfolios against any number of indices.</p>
             </div>
           </div>
         </div>
@@ -77,10 +77,19 @@
         </div>
         <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
           <div class="card h-100 text-center card-no-border">
+            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/portfolio_icon.png" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">Portfolio Analytics</h4>
+              <p class="card-text justify-text">Risk, Return, and Valuation analytics for any portfolio can be generated between any two dates at any interval.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+          <div class="card h-100 text-center card-no-border">
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/spdji_logo_new.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Benchmark Comparisons</h4>
-              <p class="card-text justify-text">Risk, Return, and Valuation analytics for any portfolio can be generated between any two dates at any interval.</p>
+              <p class="card-text justify-text">Risk, Return, and Valuation analytics for any portfolio vs any benchmark. View any analysis as of any date, or between any two dates at any interval.</p>
             </div>
           </div>
         </div>
@@ -89,7 +98,7 @@
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/scale.png" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">Liability-Driven Investment Strategies</h4>
-              <p class="card-text justify-text">CMS:Portfolio includes the full family of fixed income indices produced by S&P Dow Jones, the global leader in financial indices.</p>
+              <p class="card-text justify-text">Easily load liability schedules as basis for LDI. Forecast cash flows for complex portfolios with mixed accrual and settlement conventions, or perform swap analysis to determine cash flow impact. Run scenarios against reserve limits.</p>
             </div>
           </div>
         </div>
@@ -99,15 +108,6 @@
             <div class="card-body">
               <h4 class="card-title">Stress Testing</h4>
               <p class="card-text justify-text">Perform rate shocks, key-rate duration shifts, and other interest-sensitive scenarios against portfolios and individual securities.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
-          <div class="card h-100 text-center card-no-border">
-            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/magnifier.png" alt=""></a>
-            <div class="card-body">
-              <h4 class="card-title">'Like' Bond Searches</h4>
-              <p class="card-text justify-text">Search for Bonds that are similar in yield, duration, sensitivity and risk.</p>
             </div>
           </div>
         </div>
