@@ -143,6 +143,19 @@
       </div>
     </div>
     <!-- /.container -->
+      <hr>
+
+      <!-- Call to Action Section -->
+      <div class="row mb-4">
+        <div class="col-md-8">
+          <p class="peachtext">Do you have a portfolio that you would like to analyze on CMS:Portfolio? We can get you up and running quickly, usually the same day. We are serious about Zero Implementation!</p>
+        </div>
+        <div class="col-md-4">
+          <a class="btn btn-lg btn-secondary btn-block" href="contact.php">Contact Us Today</a>
+        </div>
+      </div>
+
+      <hr>
 
       <!-- Features Section -->
       <div class="row">
@@ -166,17 +179,6 @@
       </div>
       <!-- /.row -->
 
-      <hr>
-
-      <!-- Call to Action Section -->
-      <div class="row mb-4">
-        <div class="col-md-8">
-          <p class="peachtext">Do you have a portfolio that you would like to analyze on CMS:Portfolio? We can get you up and running quickly, usually the same day. We are serious about Zero Implementation!</p>
-        </div>
-        <div class="col-md-4">
-          <a class="btn btn-lg btn-secondary btn-block" href="contact.php">Contact Us Today</a>
-        </div>
-      </div>
 
     </div>
     <!-- /.container -->
