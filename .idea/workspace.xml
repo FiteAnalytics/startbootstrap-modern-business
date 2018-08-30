@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b2cfa95-ded6-4796-9751-300567a1a10e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/broker_dealers.php" beforeDir="false" afterPath="$PROJECT_DIR$/broker_dealers.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_management.php" beforeDir="false" afterPath="$PROJECT_DIR$/data_management.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feeds_apis.php" beforeDir="false" afterPath="$PROJECT_DIR$/feeds_apis.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tos.php" beforeDir="false" afterPath="$PROJECT_DIR$/tos.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset_managers.php" beforeDir="false" afterPath="$PROJECT_DIR$/asset_managers.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +109,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_management.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="633">
@@ -122,11 +118,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/asset_managers.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="633">
-              <caret line="154" selection-start-line="154" selection-end-line="154" />
+              <caret line="188" selection-start-line="188" selection-end-line="188" />
             </state>
           </provider>
         </entry>
@@ -152,7 +148,6 @@
         <option value="$PROJECT_DIR$/mail/contact_me.php" />
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/google_tracker.php" />
-        <option value="$PROJECT_DIR$/asset_managers.php" />
         <option value="$PROJECT_DIR$/about.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/broker_dealers.php" />
@@ -160,6 +155,7 @@
         <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/feeds_apis.php" />
         <option value="$PROJECT_DIR$/data_management.php" />
+        <option value="$PROJECT_DIR$/asset_managers.php" />
       </list>
     </option>
   </component>
@@ -363,13 +359,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/asset_managers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="633">
-          <caret line="154" selection-start-line="154" selection-end-line="154" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="633">
@@ -430,6 +419,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="633">
           <caret line="150" selection-start-line="150" selection-end-line="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset_managers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="633">
+          <caret line="188" selection-start-line="188" selection-end-line="188" />
         </state>
       </provider>
     </entry>
