@@ -61,8 +61,8 @@
           <div class="card h-100 text-center card-no-border">
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/database_black_white_icon.png" alt=""></a>
             <div class="card-body">
-              <h4 class="card-title">Track Your Portfolio</h4>
-              <p class="card-text justify-text">Easy import of portfolio positions and/or transactions. Maintain any number of portfolios against any number of indices.</p>
+              <h4 class="card-title">Track Your Portfolios</h4>
+              <p class="card-text justify-text">Easy import portfolio positions and/or transactions. Maintain any number of portfolios, with any number of securities, against any number of indices.</p>
             </div>
           </div>
         </div>
