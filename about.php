@@ -35,7 +35,7 @@
         </div>
         <div class="col-lg-6">
           <h1 class="navbar-brand"><strong>Fite Analytics LLC</strong></h1>
-          <p class="justify-text">Fite Analytics was founded in 2016 to create a better portfolio management solution for fixed income investors. We believe that the best tools are a combination of software, content & workflow, and we strive for excellence in these areas. We are committed to continuous product improvement.</p>
+          <p class="justify-text">Fite Analytics was founded in 2016 to create a better portfolio management solution for fixed income investors. We believe that the best tools combine software, content & workflow, and we strive for excellence in all 3 areas. We are committed to customer happiness.</p>
           <p class="justify-text">In 2018 Sonia Dixon joined the firm with nearly 4 decades of experience providing leading-edge analytics to the fixed-income buy side. Together, Sonia & Geoff have nearly 70 years experience working directly with investors, issuers, ratings agencies and market operators.</p>
           <p class="justify-text">Our team of dedicated, talented sofware engineers and analysts work closely with our partners to build the best fixed income analytics platform available today. We are growing rapidly and located in sunny Los Angeles, CA - <a href="/contact.php">contact us</a> today for career opportuntities!</p>
         </div>
