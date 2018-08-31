@@ -35,7 +35,7 @@
           <p class="justify-text">Just need data and derived analytics? We have daily and weekly data feeds that can be tailored to your specific requirements.</p>
         </div>
         <div class="col-lg-6">
-          <img class="img-fluid rounded" style="max-width: 70%;" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/integration.png" alt="">
+          <img class="img-fluid rounded" style="max-width: 70%;" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/shadow.png" alt="">
         </div>
       </div>
       <!-- /.row -->
