@@ -36,6 +36,9 @@
         </div>
         <div class="col-lg-6">
           <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/shadow.png" alt="">
+          <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/border.png" alt="">
+          <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/flat.png" alt="">
+          <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/perspective.png" alt="">
         </div>
       </div>
       <!-- /.row -->

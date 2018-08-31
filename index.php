@@ -22,6 +22,7 @@
           </div>
           <div class="col-lg-6">
             <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/web_diagram.png" alt="">
+            <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/web_diagram_header.png" alt="">
           </div>
         </div>
       </div>
