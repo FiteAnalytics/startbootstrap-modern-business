@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b2cfa95-ded6-4796-9751-300567a1a10e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,13 +38,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="14" />
-          <entry key="php" value="483" />
+          <entry key="php" value="497" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="14" />
-          <entry key="PHP" value="483" />
+          <entry key="PHP" value="497" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -54,7 +53,7 @@
           <entry key="css" value="1" />
           <entry key="html" value="4" />
           <entry key="md" value="1" />
-          <entry key="php" value="4" />
+          <entry key="php" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -62,14 +61,14 @@
           <entry key="CSS" value="1" />
           <entry key="HTML" value="4" />
           <entry key="Markdown" value="1" />
-          <entry key="PHP" value="4" />
+          <entry key="PHP" value="5" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
@@ -83,6 +82,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1770">
               <caret line="118" selection-start-line="118" selection-end-line="118" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -122,11 +130,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1545">
-              <caret line="103" column="60" selection-start-line="103" selection-start-column="60" selection-end-line="103" selection-end-column="60" />
+            <state relative-caret-position="533">
+              <caret line="54" column="93" selection-start-line="54" selection-start-column="93" selection-end-line="54" selection-end-column="93" />
             </state>
           </provider>
         </entry>
@@ -170,14 +178,14 @@
         <option value="$PROJECT_DIR$/google_tracker.php" />
         <option value="$PROJECT_DIR$/broker_dealers.php" />
         <option value="$PROJECT_DIR$/tos.php" />
-        <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/asset_managers.php" />
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/data_management.php" />
         <option value="$PROJECT_DIR$/feeds_apis.php" />
         <option value="$PROJECT_DIR$/css/fite.css" />
-        <option value="$PROJECT_DIR$/about.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/about.php" />
       </list>
     </option>
   </component>
@@ -385,13 +393,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="130" selection-start-line="130" selection-end-line="130" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -453,13 +454,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1545">
-          <caret line="103" column="60" selection-start-line="103" selection-start-column="60" selection-end-line="103" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data_management.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -471,6 +465,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2415">
           <caret line="161" column="13" selection-start-line="161" selection-start-column="13" selection-end-line="161" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="54" column="93" selection-start-line="54" selection-start-column="93" selection-end-line="54" selection-end-column="93" />
         </state>
       </provider>
     </entry>
