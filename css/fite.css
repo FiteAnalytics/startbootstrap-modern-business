@@ -114,9 +114,9 @@ a {
 }
 
 .under-nav {
-  /*background-color: var(--black-purple);*/
+  background-color: var(--black-purple);
   /*background-color: var(--dark-mauve);*/
-  background-color: var(--plum);
+  /*background-color: var(--plum);*/
   /*position: fixed;*/
   /*top: 0;*/
   right: 0;
