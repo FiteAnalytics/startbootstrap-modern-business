@@ -17,10 +17,8 @@
     <div class="navbar under-nav">
       <div class="container">
         <div class="row">
-          <div class="col-lg-6">
+          <div class="col-lg-12">
             <h1 class="hero-text" style="margin: 0; text-align: right">CMS:Portfolio<br><small>Fixed-Income Analytics Platform</small></h1>
-          </div>
-          <div class="col-lg-6">
           </div>
         </div>
       </div>
