@@ -39,13 +39,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="14" />
-          <entry key="php" value="619" />
+          <entry key="php" value="620" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="14" />
-          <entry key="PHP" value="619" />
+          <entry key="PHP" value="620" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -73,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <caret line="20" column="85" selection-start-line="20" selection-start-column="85" selection-end-line="20" selection-end-column="85" />
             </state>
           </provider>
         </entry>
@@ -473,7 +473,7 @@
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <caret line="20" column="85" selection-start-line="20" selection-start-column="85" selection-end-line="20" selection-end-column="85" />
         </state>
       </provider>
     </entry>
