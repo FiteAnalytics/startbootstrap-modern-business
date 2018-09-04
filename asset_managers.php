@@ -41,7 +41,7 @@
           </p>
         </div>
         <div class="col-lg-6">
-          <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/shot_benchmark_yield.png" alt="">
+          <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/cms_yieldcurve.png" alt="">
         </div>
       </div>
       <!-- /.row -->
