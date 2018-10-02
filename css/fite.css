@@ -1,0 +1,133 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+:root {
+  --black-purple: #2A1C42;
+  --dark-mauve: #644A77;
+  --plum: #7B4C77;
+  --tangerine: #EF785D;
+  --peach: #F0A163;
+  --yellow: #F5C867;
+}
+
+.justify-text {
+  text-align: justify;
+}
+.tangerine {
+  color: var(--tangerine)!important;
+}
+
+body {
+  padding-top: 54px;
+  /*background-color: var(--peach);*/
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.carousel-caption {
+  color: var(--dark-mauve);
+}
+
+.carousel-item {
+  /*height: 65vh;*/
+  /*min-height: 300px;*/
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: var(--tangerine);
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.card-img-top {
+  width: 50%;
+}
+
+.card-no-border {
+  border: 0px;
+}
+.card-header {
+  background-color: var(--black-purple);
+  color: var(--peach);
+}
+
+.card-footer {
+  background-color: var(--black-purple);
+}
+
+.my-4 {
+  color: var(--dark-mauve);
+}
+
+.bg-dark {
+  background-color: var(--black-purple)!important;
+}
+
+.navbar-brand {
+  font-family: "Courier New";
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, p {
+  font-family: "lato";
+}
+
+a {
+  font-family: "lato";
+}
+
+.btn {
+  font-family: "lato";
+}
+
+.btn-primary {
+  background-color: var(--yellow);
+  border-color: var(--yellow);
+  color: var(--black-purple);
+}
+
+.hero-text {
+  color: var(--peach);
+}
+
+.hero-subtext {
+  color: var(--peach);
+  font-style: italic;
+}
+
+.card-title {
+  color: var(--dark-mauve);
+}
+
+.peachtext {
+  color: var(--peach);
+}
+
+.under-nav {
+  background-color: var(--black-purple);
+  /*background-color: var(--dark-mauve);*/
+  /*background-color: var(--plum);*/
+  /*position: fixed;*/
+  /*top: 0;*/
+  right: 0;
+  left: 0;
+  /*z-index: $zindex-fixed;*/
+}
+
+.centered-text {
+    text-align: center;
+}
+
+.subtle-a {
+  color: var(--plum);
+}
