@@ -34,7 +34,7 @@
             <div class="card-body">
               <h4 class="card-title">Geoff Fite</h4>
               <h6 class="card-subtitle mb-2 text-muted tangerine">Founder</h6>
-              <p class="card-text justify-text">Geoff was President, BondEdge Solutions at IDC (acquired by ICE in 2016), COO at Moody's Analytics, VP at Morningstar, and COO & CTO at mPower Advisors LLC. (acquired by Morningstar). He has a degree in Political Science from UC San Diego and a graduate degree in East Asian Languages and Cultures from Columbia University.</p>
+              <p class="card-text justify-text">Geoff was formerly President, BondEdge Solutions at Interactive Data Corp (acquired by ICE in 2016), COO at Moody's Analytics, VP at Morningstar, and COO & CTO at mPower Advisors LLC (acquired by Morningstar). He has a degree in Political Science from UC San Diego and a graduate degree in East Asian Languages and Cultures from Columbia University.</p>
               <p><script src="//platform.linkedin.com/in.js" type="text/javascript"></script><script type="IN/MemberProfile" data-id="http://www.linkedin.com/in/geoffreyfite" data-format="click" data-related="false"></script></p>
             </div>
           </div>
