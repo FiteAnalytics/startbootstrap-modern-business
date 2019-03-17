@@ -29,7 +29,7 @@
 
 <div class="container">
       <div class="row">
-        <div class="col-lg-3 mb-3">
+        <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center card-no-border">
             <div class="card-body">
               <h4 class="card-title">Geoff Fite</h4>
@@ -39,7 +39,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 mb-3">
+        <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center card-no-border">
             <div class="card-body">
               <h4 class="card-title">Sonia Dixon</h4>
@@ -48,12 +48,12 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 mb-3">
+        <div class="col-lg-4 mb-4">
           <div class="card h-100 text-center card-no-border">
             <div class="card-body">
               <h4 class="card-title">Richard Mule</h4>
               <h6 class="card-subtitle mb-2 text-muted tangerine">Engineering Lead</h6>
-              <p class="card-text justify-text">Dick is responsible for analytic calculations in our software. He has double degrees in Engineering and Commerce from Santa Clara University, and has completed his CFA Level 1 exam.</p>
+              <p class="card-text justify-text">Dick is responsible for analytic calculations in our software. He has double degrees in Engineering and Commerce from Santa Clara University, and has successfully passed his CFA Level 1 exam.</p>
             </div>
           </div>
         </div>
