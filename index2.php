@@ -17,7 +17,7 @@
     <div class="navbar under-nav">
       <div class="jumbotron">
         <div class="container">
-          <img src="s3://fiteanalytics/website-assets/bridge_skyward.jpeg">
+          <img src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/bridge_skyward.jpeg">
         </div>
       </div>
       <div class="container">
