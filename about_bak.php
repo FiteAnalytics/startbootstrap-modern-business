@@ -28,13 +28,30 @@
     <br>
 
 <div class="container">
+      <!-- Intro Content -->
+      <div class="row">
+        <div class="col-lg-6">
+          <img class="img-fluid rounded mb-4" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/lifeguard.png" alt="">
+        </div>
+        <div class="col-lg-6">
+          <h1 class="navbar-brand"><strong>Fite Analytics LLC</strong></h1>
+          <p class="justify-text">Fite Analytics was founded in 2016 to create a better portfolio management solution for fixed income investors. We believe that the best tools combine software, content & workflow, and we strive for excellence in all 3 areas. We are committed to customer happiness.</p>
+          <p class="justify-text">In 2018 Sonia Dixon joined the firm with nearly 4 decades of experience providing leading-edge analytics to the fixed-income buy side. Together, Sonia & Geoff have nearly 70 years experience working directly with investors, issuers, ratings agencies and market operators.</p>
+          <p class="justify-text">Our team of dedicated, talented sofware engineers and analysts work closely with our partners to build the best fixed income analytics platform available today. We are growing rapidly and located in sunny Los Angeles, CA - <a href="/contact.php">contact us</a> today for career opportuntities!</p>
+        </div>
+      </div>
+      <!-- /.row -->
+
+      <!-- Team Members -->
+      <h2>our team</h2>
+
       <div class="row">
         <div class="col-lg-3 mb-3">
           <div class="card h-100 text-center card-no-border">
             <div class="card-body">
               <h4 class="card-title">Geoff Fite</h4>
               <h6 class="card-subtitle mb-2 text-muted tangerine">Founder</h6>
-              <p class="card-text justify-text">Geoff was President, BondEdge Solutions at IDC (acquired by ICE in 2016), COO at Moody's Analytics, VP at Morningstar, and COO & CTO at mPower Advisors LLC. (acquired by Morningstar). He has a degree in Political Science from UC San Diego and a graduate degree in East Asian Languages and Cultures from Columbia University.</p>
+              <p class="card-text justify-text">Prior to Fite Analytics, Geoff was President, BondEdge Solutions at IDC (acquired by ICE in 2016). Geoff was also COO at Moody's Analytics, VP at Morningstar, and COO & CTO at mPower Advisors LLC. (acquired by Morningstar). He has a degree in Political Science from UC San Diego and a graduate degree in East Asian Languages and Cultures from Columbia University.</p>
               <p><script src="//platform.linkedin.com/in.js" type="text/javascript"></script><script type="IN/MemberProfile" data-id="http://www.linkedin.com/in/geoffreyfite" data-format="click" data-related="false"></script></p>
             </div>
           </div>
@@ -51,9 +68,18 @@
         <div class="col-lg-3 mb-3">
           <div class="card h-100 text-center card-no-border">
             <div class="card-body">
+              <h4 class="card-title">Ayo Adedeji</h4>
+              <h6 class="card-subtitle mb-2 text-muted tangerine">Engineering Lead</h6>
+              <p class="card-text justify-text">Ayo started his career at Fite Analytics and is responsible for top-to-bottom engineering of our software. He has a degree in Bioengineering from Stanford University.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 mb-3">
+          <div class="card h-100 text-center card-no-border">
+            <div class="card-body">
               <h4 class="card-title">Richard Mule</h4>
               <h6 class="card-subtitle mb-2 text-muted tangerine">Engineering Lead</h6>
-              <p class="card-text justify-text">Dick is responsible for analytic calculations in our software. He has double degrees in Engineering and Commerce from Santa Clara University, and has completed his CFA Level 1 exam.</p>
+              <p class="card-text justify-text">Dick started his career at Fite Analytics and is responsible for analytic calculations in our software. He has double degrees in Engineering and Commerce from Santa Clara University.</p>
             </div>
           </div>
         </div>
@@ -78,27 +104,6 @@
             <div class="card-body">
               <h4 class="card-title"><img style="width: 50%;" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/spdji_logo_new.png"></h4>
               <h6 class="card-subtitle mb-2 text-muted"><a href="https://us.spindices.com" target="_blank">S&P Dow Jones</a> is the market leader in financial indices.</h6>
-              <p class="card-text"></p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- /.row -->
-      <div class="row">
-        <div class="col-lg-6 mb-3">
-          <div class="card h-100 text-center card-no-border">
-            <div class="card-body">
-              <h4 class="card-title"><img src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/moody_logo.png"></h4>
-              <h6 class="card-subtitle mb-2 text-muted"><a href="https://www.moodysanalytics.com" target="_blank">EDI</a> is our reference and pricing data partner for structured securities.</h6>
-              <p class="card-text"></p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6 mb-3">
-          <div class="card h-100 text-center card-no-border">
-            <div class="card-body">
-              <h4 class="card-title"><img style="width: 50%;" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/mergent_logo.png"></h4>
-              <h6 class="card-subtitle mb-2 text-muted"><a href="https://www.mergent.com" target="_blank">Mergent</a> is our reference and pricing data partner for municipal securities.</h6>
               <p class="card-text"></p>
             </div>
           </div>
