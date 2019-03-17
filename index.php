@@ -41,7 +41,7 @@
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
                     <div class="card h-100 text-center card-no-border">
-                        <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/portfolio_icon.png" style="width: 30%" alt=""></a>
+                        <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/portfolio_icon.png" style="width: 25%" alt=""></a>
                     </div>
                 </div>
             </div>
@@ -112,7 +112,7 @@
             </div>
         </div>
         <a name="cms_container"></a>
-        <br><br><br><hr><br>
+        <br><br><br><br><hr><br>
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-12">
