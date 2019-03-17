@@ -25,7 +25,7 @@
             <div class="row">
                 <div class="col-lg-12">
                   <h2 class="whitetext">what we do</h2>
-                  <p>CMS:Portfolio combines fixed income market data, high-precision analytics, and S&P Dow Jones Indices on a fast, secure cloud-native platform.</p>
+                  <p>We combine <strong>market data</strong>, <strong>low-latency analytics</strong>, and <strong>cloud-based distributed technology</strong> for <a href="#partners">financial institutions</a>.</p>
                 </div>
             </div>
             <!-- /.row -->
