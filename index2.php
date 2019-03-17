@@ -120,7 +120,6 @@
                 </div>
             </div>
         </div>
-        <br><hr><br>
         <!-- CMS:Portfolio Section -->
         <div class="container-fluid">
             <div class="row">
@@ -131,9 +130,11 @@
                     <h4 class="whitetext"><strong>CMS:Portfolio</strong> is powered by extensive market content
                         from <a class="subtle-a" href="https://www.exchange-data.com/" target="_blank">Exchange Data International</a>,
                         <a class="subtle-a" href="https://mergent.com" target="_blank">Mergent by FTSE Russell</a>, and
-                        <a class="subtle-a" href="https://moodysanalytics.com" target="_blank">Moody's Analytics</a>, and contains
+                        <a class="subtle-a" href="https://moodysanalytics.com" target="_blank">Moody's Analytics</a>, and
                         benchmarks from <a class="subtle-a" href="https://us.spindices.com/" target="_blank">S&P Dow Jones Indices</a>.
-                        Cloud-native with zero-implementation,
+                        <br>
+                        <strong>CMS:Portfolio</strong> manages all asset classes, is cloud-native and requires no implementation.
+                        <br>
                         CMS:Portfolio sets the standard for <strong>fixed income portfolio and security analytics</strong>.</h4>
                 </div>
             </div>
