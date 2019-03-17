@@ -15,11 +15,10 @@
   <body>
     <?php include 'navigation.php'; ?>
     <div class="jumbotron"  style="background-image: url(https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/bridge_skyward.png); background-size: 100% 100%">
-      <h1>TRANSPARENCY, EFFICIENCY, AND INSIGHT FOR INSTIUTIONAL INVESTMENT PORTFOLIOS</h1>
+      <h1>TRANSPARENCY, EFFICIENCY, AND INSIGHT FOR INSTITUTIONAL INVESTMENT PORTFOLIOS</h1>
       <p class="lead">Analytics for the <strong>next generation</strong> of Capital Markets Infrastructure.</p>
       <p><a href="">Learn more &raquo;</a></p>
     </div>
-//    <div class="navbar under-nav">
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
@@ -27,7 +26,6 @@
           </div>
         </div>
       </div>
-//    </div>
     <br>
     <!-- Who We Are Section -->
     <div class="container">
