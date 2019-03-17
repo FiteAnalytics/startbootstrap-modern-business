@@ -29,7 +29,7 @@
             </div>
             <!-- /.row -->
             <div class="row">
-                <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
                     <div class="card h-100 text-center card-no-border">
                     <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/database_black_white_icon.png" alt=""></a>
                     <div class="card-body">
@@ -37,7 +37,7 @@
                     </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
                     <div class="card h-100 text-center card-no-border">
                         <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/analytics_black_white.png" alt=""></a>
                         <div class="card-body">
@@ -45,40 +45,39 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
-          <div class="card h-100 text-center card-no-border">
-            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/portfolio_icon.png" alt=""></a>
-            <div class="card-body">
-              <h4 class="card-title">DISTRIBUTED LEDGERS</h4>
+                <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100 text-center card-no-border">
+                        <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/portfolio_icon.png" alt=""></a>
+                        <div class="card-body">
+                            <h4 class="card-title">DISTRIBUTED LEDGERS</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100 text-center card-no-border">
+                        <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/handshake.png" alt=""></a>
+                        <div class="card-body">
+                            <h4 class="card-title">SMART CONTRACTS</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card text-center card-no-border">
+                        <a href="#"><img class="card-img-top" style="width: 60%;" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/spdji_logo_new.png" alt=""></a>
+                        <div class="card-body">
+                            <h4 class="card-title">INDICES</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100 text-center card-no-border">
+                        <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/stress_testing.png" alt=""></a>
+                        <div class="card-body">
+                            <h4 class="card-title">STRESS TESTS</h4>
+                        </div>
+                </div>
             </div>
-          </div>
         </div>
-        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
-          <div class="card text-center card-no-border">
-            <a href="#"><img class="card-img-top" style="width: 60%;" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/spdji_logo_new.png" alt=""></a>
-            <div class="card-body">
-              <h4 class="card-title">INDICES</h4>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
-          <div class="card h-100 text-center card-no-border">
-            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/stress_testing.png" alt=""></a>
-            <div class="card-body">
-              <h4 class="card-title">STRESS TESTS</h4>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
-          <div class="card h-100 text-center card-no-border">
-            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/handshake.png" alt=""></a>
-            <div class="card-body">
-              <h4 class="card-title">SMART CONTRACTS</h4>
-            </div>
-          </div>
-        </div>
-     </div>
-
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
