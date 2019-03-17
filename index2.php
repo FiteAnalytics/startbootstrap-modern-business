@@ -120,15 +120,13 @@
             </div>
         </div>
         <!-- CMS:Portfolio Section -->
-        <div class="container-fluid">
+        <div class="container">
             <div class="row">
-                <div class="col-lg-12">
-                    <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/cms_diagram.png" alt="">
+                <div class="col-lg-6">
+                      <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/cms_diagram.png" alt="">
                 </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <h2 class="whitetext">CMS:Portfolio</h2>
+                <div class="col-lg-6">
+                    <h2 class="whitetext">who we are</h2>
                     <p class="justify-text">Fite Analytics helps fixed income investors manage Risk and Return. Our platform, <strong>CMS:Portfolio</strong>, is powered
                         by benchmarks from <a class="subtle-a" href="https://us.spindices.com/" target="_blank">S&P Dow Jones Indices</a>
                         and extensive market content
