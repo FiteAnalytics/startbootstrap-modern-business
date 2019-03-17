@@ -17,7 +17,7 @@
         <div class="jumbotron"  style="background-image: url(https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/bridge_skyward.png); background-size: 100% 100%; opacity: 1.2">
             <h1 style="color: #EF785D">TRANSPARENCY, EFFICIENCY & INSIGHT for<br>CAPITAL MARKETS</h1>
             <p class="lead"><strong>Next-Generation Security & Portfolio Analytics</strong></p>
-            <p><a href="">Learn more &raquo;</a></p>
+            <p><a href="#cms_container">Learn more &raquo;</a></p>
             <br>
             <br>
         </div>
@@ -112,7 +112,7 @@
             </div>
         </div>
         <br><hr><br>
-        <div class="container-fluid">
+        <div class="container-fluid" name="cms_container">
             <div class="row">
                 <div class="col-lg-12">
                     <h1 class="hero-text" style="margin: 0; text-align: left">CMS:Portfolio <small>Fixed-Income Analytics Platform</small></h1>
