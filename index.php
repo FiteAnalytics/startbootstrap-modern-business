@@ -31,12 +31,12 @@
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
                     <div class="card h-100 text-center card-no-border">
-                        <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/database_black_white_icon.png" alt=""></a>
+                        <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/database_black_white_icon.png" style="width: 40%" alt=""></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
                     <div class="card h-100 text-center card-no-border">
-                        <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/analytics_black_white.png" style="width: 40%" alt=""></a>
+                        <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/analytics_black_white.png" style="width: 35%" alt=""></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
@@ -73,7 +73,7 @@
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
                     <div class="card h-100 text-center card-no-border">
-                        <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/handshake.png" alt=""></a>
+                        <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/handshake.png" style="width: 40%" alt=""></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
@@ -112,7 +112,7 @@
             </div>
         </div>
         <a name="cms_container"></a>
-        <br><br><hr><br>
+        <br><br><br><hr><br>
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-12">
