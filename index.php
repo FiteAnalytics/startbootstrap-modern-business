@@ -24,7 +24,7 @@
         <div class="container-fluid"><!-- What We Do Section -->
             <div class="row">
                 <div class="col-lg-12">
-                  <h2 class="whitetext">WHAT WE DO</h2>
+                  <h3 class="whitetext">WHAT WE DO</h3>
                 </div>
             </div>
             <!-- /.row -->
