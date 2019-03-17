@@ -36,7 +36,7 @@
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
                     <div class="card h-100 text-center card-no-border">
-                        <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/analytics_black_white.png" style="width: 30%" alt=""></a>
+                        <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/analytics_black_white.png" style="width: 50%" alt=""></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
