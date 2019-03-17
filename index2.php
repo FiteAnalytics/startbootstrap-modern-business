@@ -19,7 +19,7 @@
       <p class="lead">Your message here</p>
       <p><a href="">Learn more &raquo;</a></p>
     </div>
-    <div class="navbar under-nav">
+//    <div class="navbar under-nav">
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
@@ -27,7 +27,7 @@
           </div>
         </div>
       </div>
-    </div>
+//    </div>
     <br>
     <!-- Who We Are Section -->
     <div class="container">
