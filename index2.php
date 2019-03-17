@@ -25,7 +25,7 @@
             <div class="row">
                 <div class="col-lg-12">
                   <h2 class="whitetext">what we do</h2>
-                  <p>We combine <strong>market data</strong>, <strong>low-latency analytics</strong>, and <strong>cloud-based distributed technology</strong> for <a href="#partners">financial institutions</a>.</p>
+                  <p>We accelerate <strong>institutional investor workflows</strong> by combining <strong>market data</strong> and <strong>analytics</strong> on a <strong>cloud-based distributed technology platform</strong></p>
                 </div>
             </div>
             <!-- /.row -->
