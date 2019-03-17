@@ -89,7 +89,7 @@
           <div class="card h-100 text-center card-no-border">
             <div class="card-body">
               <h4 class="card-title"><img src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/moody_logo.jpeg"></h4>
-              <h6 class="card-subtitle mb-2 text-muted"><a href="https://www.moodysanalytics.com" target="_blank">Moody's Analytics</a> is our reference and pricing data partner for structured securities.</h6>
+              <h6 class="card-subtitle mb-2 text-muted"><a href="https://www.moodysanalytics.com" target="_blank">Moody's Analytics</a> is our reference data partner for structured securities.</h6>
               <p class="card-text"></p>
             </div>
           </div>
@@ -98,7 +98,7 @@
           <div class="card h-100 text-center card-no-border">
             <div class="card-body">
               <h4 class="card-title"><img style="width: 50%;" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/mergent_logo.jpeg"></h4>
-              <h6 class="card-subtitle mb-2 text-muted"><a href="https://www.mergent.com" target="_blank">Mergent</a> is our reference and pricing data partner for municipal securities.</h6>
+              <h6 class="card-subtitle mb-2 text-muted"><a href="https://www.mergent.com" target="_blank">Mergent</a> is our reference data partner for municipal securities.</h6>
               <p class="card-text"></p>
             </div>
           </div>
