@@ -25,7 +25,7 @@
             <div class="row">
                 <div class="col-lg-12">
                   <h2 class="whitetext">what we do</h2>
-                  <p>We accelerate <strong>institutional investor workflows</strong> by combining <strong>market data</strong> and <strong>analytics</strong> on <h4>CMS:Portfolio</h4>, our <strong>cloud-based distributed technology platform</strong></p>
+                  <p>We accelerate <strong>institutional investor workflows</strong> by combining <strong>market data</strong> and <strong>analytics</strong> on <strong>CMS:Portfolio</strong>, our <strong>cloud-based distributed technology platform</strong>.</p>
                 </div>
             </div>
             <!-- /.row -->
