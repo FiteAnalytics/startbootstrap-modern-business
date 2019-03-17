@@ -119,9 +119,8 @@
                 </div>
             </div>
         </div>
-        <br>
         <!-- CMS:Portfolio Section -->
-        <div class="container-fluid">
+        <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-6">
                     <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/cms_diagram.png" alt="">
