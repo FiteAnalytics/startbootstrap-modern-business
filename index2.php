@@ -25,7 +25,6 @@
             <div class="row">
                 <div class="col-lg-12">
                   <h2 class="whitetext">what we do</h2>
-                  <p>We accelerate <strong>institutional investor workflows</strong> by combining <strong>market data</strong> and <strong>analytics</strong> on <strong>CMS:Portfolio</strong>, our <strong>cloud-based distributed technology platform</strong>.</p>
                 </div>
             </div>
             <!-- /.row -->
@@ -34,8 +33,7 @@
                     <div class="card h-100 text-center card-no-border">
                     <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/database_black_white_icon.png" alt=""></a>
                     <div class="card-body">
-                      <h4 class="card-title">Security Database</h4>
-                      <p class="card-text justify-text">CMS:Portfolio includes extensive global fixed income security reference and pricing data, and detailed index holdings and history.</p>
+                      <h4 class="card-title">MARKET DATA</h4>
                     </div>
                     </div>
                 </div>
@@ -43,8 +41,7 @@
                     <div class="card h-100 text-center card-no-border">
                         <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/analytics_black_white.png" alt=""></a>
                         <div class="card-body">
-                            <h4 class="card-title">Security Analytics</h4>
-                            <p class="card-text justify-text">We calculate industry-standard and cutting-edge analytic measures across a wide range of fixed income asset classes, both public and private.</p>
+                            <h4 class="card-title">ANALYTICS</h4>
                         </div>
                     </div>
                 </div>
@@ -52,8 +49,7 @@
           <div class="card h-100 text-center card-no-border">
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/portfolio_icon.png" alt=""></a>
             <div class="card-body">
-              <h4 class="card-title">Portfolio Analytics</h4>
-              <p class="card-text justify-text">Risk, Return, and Valuation analytics for any portfolio can be generated between any two dates at any interval.</p>
+              <h4 class="card-title">DISTRIBUTED LEDGERS</h4>
             </div>
           </div>
         </div>
@@ -61,8 +57,7 @@
           <div class="card text-center card-no-border">
             <a href="#"><img class="card-img-top" style="width: 60%;" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/spdji_logo_new.png" alt=""></a>
             <div class="card-body">
-              <h4 class="card-title">S&P Dow Jones Indices</h4>
-              <p class="card-text justify-text">CMS:Portfolio includes the full family of fixed income indices produced by S&P Dow Jones, the global leader in financial indices.</p>
+              <h4 class="card-title">INDICES</h4>
             </div>
           </div>
         </div>
@@ -70,8 +65,7 @@
           <div class="card h-100 text-center card-no-border">
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/stress_testing.png" alt=""></a>
             <div class="card-body">
-              <h4 class="card-title">Stress Testing</h4>
-              <p class="card-text justify-text">Perform rate shocks, key-rate duration shifts, and other interest-sensitive scenarios against portfolios and individual securities.</p>
+              <h4 class="card-title">STRESS TESTS</h4>
             </div>
           </div>
         </div>
@@ -79,30 +73,11 @@
           <div class="card h-100 text-center card-no-border">
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/handshake.png" alt=""></a>
             <div class="card-body">
-              <h4 class="card-title">Pre-trade Analytics</h4>
-              <p class="card-text justify-text">Comprehensive what-if analysis of any trade, with detailed impact analyses across risk, return, and cash flows.</p>
+              <h4 class="card-title">SMART CONTRACTS</h4>
             </div>
           </div>
         </div>
-        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
-          <div class="card h-100 text-center card-no-border">
-            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/reporting.png" alt=""></a>
-            <div class="card-body">
-              <h4 class="card-title">Robust Reporting</h4>
-              <p class="card-text justify-text">Beautiful fixed income analytics reports in PDF or electronic format, mobile and presentation ready. Drag and drop results into your favorite desktop app.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
-          <div class="card h-100 text-center card-no-border">
-            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/support.png" alt=""></a>
-            <div class="card-body">
-              <h4 class="card-title">Dedicated Support</h4>
-              <p class="card-text justify-text">We're veterans in the space and we understand your business. We are able to help you with data, research or any task that will make your work more efficient!</p>
-            </div>
-          </div>
-        </div>
-        </div>
+     </div>
 
       <div class="container">
         <div class="row">
