@@ -24,14 +24,31 @@
         <div class="container-fluid"><!-- What We Do Section -->
             <div class="row">
                 <div class="col-lg-12">
-                  <h2 class="whitetext">what we do</h2>
+                  <h2 class="whitetext">WHAT WE DO</h2>
                 </div>
             </div>
             <!-- /.row -->
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
                     <div class="card h-100 text-center card-no-border">
-                    <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/database_black_white_icon.png" alt=""></a>
+                        <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/database_black_white_icon.png" alt=""></a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100 text-center card-no-border">
+                        <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/analytics_black_white.png" alt=""></a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100 text-center card-no-border">
+                        <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/portfolio_icon.png" alt=""></a>
+                    </div>
+                </div>
+            </div>
+            <!-- /.row -->
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100 text-center card-no-border">
                     <div class="card-body">
                       <h4 class="card-title">MARKET DATA</h4>
                     </div>
@@ -39,7 +56,6 @@
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
                     <div class="card h-100 text-center card-no-border">
-                        <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/analytics_black_white.png" alt=""></a>
                         <div class="card-body">
                             <h4 class="card-title">ANALYTICS</h4>
                         </div>
@@ -47,12 +63,14 @@
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
                     <div class="card h-100 text-center card-no-border">
-                        <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/portfolio_icon.png" alt=""></a>
                         <div class="card-body">
                             <h4 class="card-title">DISTRIBUTED LEDGERS</h4>
                         </div>
                     </div>
                 </div>
+            </div>
+            <!-- /.row -->
+            <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
                     <div class="card h-100 text-center card-no-border">
                         <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/handshake.png" alt=""></a>
