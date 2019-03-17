@@ -19,7 +19,7 @@
             <p class="lead">Analytics for the <strong>next generation</strong> in Capital Markets</p>
             <p><a href="">Learn more &raquo;</a></p>
         </div>
-        <div class="container container-fluid"><!-- What We Do Section -->
+        <div class="container-fluid"><!-- What We Do Section -->
             <div class="row">
                 <div class="col-lg-12">
                   <h2 class="whitetext">what we do</h2>
