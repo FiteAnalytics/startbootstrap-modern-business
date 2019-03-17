@@ -116,10 +116,11 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 class="hero-text" style="margin: 0; text-align: left">CMS:Portfolio <small>Fixed-Income Analytics Platform</small></h1>
+                    <h1 class="hero-text" style="margin: 0; text-align: center">CMS:Portfolio <small>Fixed-Income Analytics Platform</small></h1>
                 </div>
             </div>
         </div>
+        <br>
         <!-- CMS:Portfolio Section -->
         <div class="container-fluid">
             <div class="row">
