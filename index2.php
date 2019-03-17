@@ -1,61 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <title>fite analytics llc</title>
-    <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Custom styles for this template -->
-    <link href="css/fite.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://use.typekit.net/vgr7dzc.css">
-  </head>
-  <body>
-    <?php include 'navigation.php'; ?>
-    <div class="jumbotron"  style="background-image: url(https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/bridge_skyward.png); background-size: 100% 100%; opacity: 1.2">
-      <h1 style="color: #EF785D">TRANSPARENCY, EFFICIENCY & INSIGHT for<br>INSTITUTIONAL PORTFOLIOS</h1>
-      <p class="lead">Analytics for the <strong>next generation</strong> in Capital Markets</p>
-      <p><a href="">Learn more &raquo;</a></p>
-    </div>
-      <div class="container">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <title>fite analytics llc</title>
+        <!-- Bootstrap core CSS -->
+        <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <!-- Custom styles for this template -->
+        <link href="css/fite.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://use.typekit.net/vgr7dzc.css">
+    </head>
+    <body>
+        <?php include 'navigation.php'; ?>
+        <div class="jumbotron"  style="background-image: url(https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/bridge_skyward.png); background-size: 100% 100%; opacity: 1.2">
+            <h1 style="color: #EF785D">TRANSPARENCY, EFFICIENCY & INSIGHT for<br>INSTITUTIONAL PORTFOLIOS</h1>
+            <p class="lead">Analytics for the <strong>next generation</strong> in Capital Markets</p>
+            <p><a href="">Learn more &raquo;</a></p>
+        </div>
+        <div class="container"><!-- What We Do Section -->
+            <div class="row">
+            <div class="col-lg-12">
+              <h2 class="whitetext">what we do</h2>
+              <p>CMS:Portfolio combines fixed income market data, high-precision analytics, and S&P Dow Jones Indices on a fast, secure cloud-native platform.</p>
+            </div>
+            </div>
+        <!-- /.row -->
         <div class="row">
-          <div class="col-lg-12">
-            <h1 class="hero-text" style="margin: 0; text-align: right">CMS:Portfolio <small>Fixed-Income Analytics Platform</small></h1>
-          </div>
-        </div>
-      </div>
-    <br>
-    <!-- Who We Are Section -->
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-6">
-          <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/cms_diagram.png" alt="">
-        </div>
-        <div class="col-lg-6">
-          <h2 class="whitetext">who we are</h2>
-          <p class="justify-text">Fite Analytics helps fixed income investors manage Risk and Return. Our platform, <strong>CMS:Portfolio</strong>, is powered
-            by benchmarks from <a class="subtle-a" href="https://us.spindices.com/" target="_blank">S&P Dow Jones Indices</a>
-            and extensive market content
-            from <a class="subtle-a" href="https://www.exchange-data.com/" target="_blank">Exchange Data International</a>.
-            Cloud-native with zero-implementation,
-            CMS:Portfolio sets the standard for <strong>fixed income portfolio and security analytics</strong>. We are
-            industry veterans with over 70 years of combined fixed income analytics experience, and we are fanatical
-            about having the happiest customers on the planet.</p>
-        </div>
-      </div>
-      <!-- /.row -->
-      <br>
-      <!-- What We Do Section -->
-      <div class="row">
-        <div class="col-lg-12">
-          <h2 class="whitetext">what we do</h2>
-          <p>CMS:Portfolio combines fixed income market data, high-precision analytics, and S&P Dow Jones Indices on a fast, secure cloud-native platform.</p>
-        </div>
-      </div>
-      <!-- /.row -->
-      <div class="row">
         <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
           <div class="card h-100 text-center card-no-border">
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/database_black_white_icon.png" alt=""></a>
@@ -128,7 +100,36 @@
             </div>
           </div>
         </div>
+        </div>
+
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <h1 class="hero-text" style="margin: 0; text-align: right">CMS:Portfolio <small>Fixed-Income Analytics Platform</small></h1>
+          </div>
+        </div>
       </div>
+    <br>
+    <!-- Who We Are Section -->
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6">
+          <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/cms_diagram.png" alt="">
+        </div>
+        <div class="col-lg-6">
+          <h2 class="whitetext">who we are</h2>
+          <p class="justify-text">Fite Analytics helps fixed income investors manage Risk and Return. Our platform, <strong>CMS:Portfolio</strong>, is powered
+            by benchmarks from <a class="subtle-a" href="https://us.spindices.com/" target="_blank">S&P Dow Jones Indices</a>
+            and extensive market content
+            from <a class="subtle-a" href="https://www.exchange-data.com/" target="_blank">Exchange Data International</a>.
+            Cloud-native with zero-implementation,
+            CMS:Portfolio sets the standard for <strong>fixed income portfolio and security analytics</strong>. We are
+            industry veterans with over 70 years of combined fixed income analytics experience, and we are fanatical
+            about having the happiest customers on the planet.</p>
+        </div>
+      </div>
+      <!-- /.row -->
+      <br>
       <hr>
       <br>
       <!-- Call to Action Section -->
