@@ -15,6 +15,11 @@
   <body>
     <?php include 'navigation.php'; ?>
     <div class="navbar under-nav">
+      <div class="jumbotron">
+        <div class="container">
+          <img src="s3://fiteanalytics/website-assets/bridge_skyward.jpeg">
+        </div>
+      </div>
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
