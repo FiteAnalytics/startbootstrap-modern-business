@@ -128,16 +128,13 @@
                       <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/cms_diagram.png" alt="">
                 </div>
                 <div class="col-lg-6">
-                    <h2 class="whitetext">who we are</h2>
-                    <p class="justify-text"><strong>CMS:Portfolio</strong> is powered by extensive market content
+                    <h2 class="whitetext"><strong>CMS:Portfolio</strong> is powered by extensive market content
                         from <a class="subtle-a" href="https://www.exchange-data.com/" target="_blank">Exchange Data International</a>,
                         <a class="subtle-a" href="https://mergent.com" target="_blank">Mergent by FTSE Russell</a>, and
-                        <a class="subtle-a" href="https://moodysanalytics.com" target="_blank">Moody\'s Analytics</a>, and contains
+                        <a class="subtle-a" href="https://moodysanalytics.com" target="_blank">Moody's Analytics</a>, and contains
                         benchmarks from <a class="subtle-a" href="https://us.spindices.com/" target="_blank">S&P Dow Jones Indices</a>.
                         Cloud-native with zero-implementation,
-                        CMS:Portfolio sets the standard for <strong>fixed income portfolio and security analytics</strong>. We are
-                        industry veterans with over 70 years of combined fixed income analytics experience, and we are fanatical
-                        about having the happiest customers on the planet.</p>
+                        CMS:Portfolio sets the standard for <strong>fixed income portfolio and security analytics</strong>.</h2>
                 </div>
             </div>
             <!-- /.row -->
