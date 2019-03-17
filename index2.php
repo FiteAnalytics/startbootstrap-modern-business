@@ -14,12 +14,12 @@
   </head>
   <body>
     <?php include 'navigation.php'; ?>
+    <div class="jumbotron"  style="background-image: url(https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/bridge_skyward.jpeg); background-size: 100% 100%;">
+      <h1>Welcome</h1>
+      <p class="lead">Your message here</p>
+      <p><a href="">Learn more &raquo;</a></p>
+    </div>
     <div class="navbar under-nav">
-      <div class="jumbotron"  style="background-image: url(https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/bridge_skyward.jpeg); background-size: 100% 100%;">
-        <h1>Welcome</h1>
-          <p class="lead">Your message here</p>
-          <p><a href="">Learn more &raquo;</a></p>
-      </div>
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
