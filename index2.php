@@ -19,34 +19,34 @@
             <p class="lead">Analytics for the <strong>next generation</strong> in Capital Markets</p>
             <p><a href="">Learn more &raquo;</a></p>
         </div>
-        <div class="container"><!-- What We Do Section -->
+        <div class="container container-fluid"><!-- What We Do Section -->
             <div class="row">
-            <div class="col-lg-12">
-              <h2 class="whitetext">what we do</h2>
-              <p>CMS:Portfolio combines fixed income market data, high-precision analytics, and S&P Dow Jones Indices on a fast, secure cloud-native platform.</p>
+                <div class="col-lg-12">
+                  <h2 class="whitetext">what we do</h2>
+                  <p>CMS:Portfolio combines fixed income market data, high-precision analytics, and S&P Dow Jones Indices on a fast, secure cloud-native platform.</p>
+                </div>
             </div>
-            </div>
-        <!-- /.row -->
-        <div class="row">
-        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
-          <div class="card h-100 text-center card-no-border">
-            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/database_black_white_icon.png" alt=""></a>
-            <div class="card-body">
-              <h4 class="card-title">Security Database</h4>
-              <p class="card-text justify-text">CMS:Portfolio includes extensive global fixed income security reference and pricing data, and detailed index holdings and history.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
-          <div class="card h-100 text-center card-no-border">
-            <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/analytics_black_white.png" alt=""></a>
-            <div class="card-body">
-              <h4 class="card-title">Security Analytics</h4>
-              <p class="card-text justify-text">We calculate industry-standard and cutting-edge analytic measures across a wide range of fixed income asset classes, both public and private.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+            <!-- /.row -->
+            <div class="row">
+                <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100 text-center card-no-border">
+                    <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/database_black_white_icon.png" alt=""></a>
+                    <div class="card-body">
+                      <h4 class="card-title">Security Database</h4>
+                      <p class="card-text justify-text">CMS:Portfolio includes extensive global fixed income security reference and pricing data, and detailed index holdings and history.</p>
+                    </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100 text-center card-no-border">
+                        <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/analytics_black_white.png" alt=""></a>
+                        <div class="card-body">
+                            <h4 class="card-title">Security Analytics</h4>
+                            <p class="card-text justify-text">We calculate industry-standard and cutting-edge analytic measures across a wide range of fixed income asset classes, both public and private.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
           <div class="card h-100 text-center card-no-border">
             <a href="#"><img class="card-img-top" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/portfolio_icon.png" alt=""></a>
             <div class="card-body">
