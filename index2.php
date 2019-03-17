@@ -131,11 +131,9 @@
                         from <a class="subtle-a" href="https://www.exchange-data.com/" target="_blank">Exchange Data International</a>,
                         <a class="subtle-a" href="https://mergent.com" target="_blank">Mergent by FTSE Russell</a>, and
                         <a class="subtle-a" href="https://moodysanalytics.com" target="_blank">Moody's Analytics</a>, and
-                        benchmarks from <a class="subtle-a" href="https://us.spindices.com/" target="_blank">S&P Dow Jones Indices</a>.
-                        <br>
-                        <strong>CMS:Portfolio</strong> manages all asset classes, is cloud-native and requires no implementation.
-                        <br>
-                        CMS:Portfolio sets the standard for <strong>fixed income portfolio and security analytics</strong>.</h4>
+                        benchmarks from <a class="subtle-a" href="https://us.spindices.com/" target="_blank">S&P Dow Jones Indices</a>.</h4>
+                    <h4><strong>CMS:Portfolio</strong> manages all asset classes, is cloud-native and requires no implementation.</h4>
+                    <h4>CMS:Portfolio sets the standard for <strong>fixed income portfolio and security analytics</strong>.</h4>
                 </div>
             </div>
             <!-- /.row -->
