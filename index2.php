@@ -120,7 +120,7 @@
             </div>
         </div>
         <!-- CMS:Portfolio Section -->
-        <div class="container">
+        <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-6">
                       <img class="img-fluid rounded" src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/cms_diagram.png" alt="">
@@ -138,7 +138,9 @@
                 </div>
             </div>
             <!-- /.row -->
-            <br><hr><br>
+        </div>
+        <br><hr><br>
+        <div class="container-fluid">
             <!-- Call to Action Section -->
             <div class="row mb-4">
                 <div class="col-md-8">
