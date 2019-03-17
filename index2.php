@@ -14,7 +14,7 @@
   </head>
   <body>
     <?php include 'navigation.php'; ?>
-    <div class="jumbotron"  style="background-image: url(https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/bridge_skyward.png); background-size: 100% 100%">
+    <div class="jumbotron"  style="background-image: url(https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/bridge_skyward.jpeg); background-size: 100% 100%">
       <h1 style="color: white">TRANSPARENCY, EFFICIENCY & INSIGHT for<br>INSTITUTIONAL PORTFOLIOS</h1>
       <p class="lead">Analytics for the <strong>next generation</strong> in Capital Markets</p>
       <p><a href="">Learn more &raquo;</a></p>
