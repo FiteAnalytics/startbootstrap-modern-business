@@ -85,7 +85,7 @@
       </div>
       <!-- /.row -->
       <div class="row">
-        <div class="col-lg-6 mb-3">
+        <!--<div class="col-lg-6 mb-3">
           <div class="card h-100 text-center card-no-border">
             <div class="card-body">
               <h4 class="card-title"><img src="https://s3-us-west-1.amazonaws.com/fiteanalytics/website-assets/moody_logo.jpeg"></h4>
@@ -93,7 +93,7 @@
               <p class="card-text"></p>
             </div>
           </div>
-        </div>
+        </div>-->
         <div class="col-lg-6 mb-3">
           <div class="card h-100 text-center card-no-border">
             <div class="card-body">
